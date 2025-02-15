@@ -1,0 +1,1510 @@
+Row,Activity,Sex,Age,Type,Species,Fatal
+761,Swimming,M,20,Unprovoked,unknown,N
+1733,Other,M,24,Unprovoked,white shark,N
+141,Surfing,M,15,Unprovoked,unknown,N
+188,Surfing,M,35,Unprovoked,unknown,N
+686,Surfing,F,38,Unprovoked,white shark,N
+1256,Other,M,16,Unprovoked,tiger shark,Y
+1876,Swimming,M,12,Unprovoked,bull shark,Y
+420,Surfing,M,20,Unprovoked,bull shark,N
+1263,Other,M,28,Unprovoked,white shark,Y
+628,Scuba diving,M,52,Unprovoked,white shark,N
+1267,Scuba diving,M,33,Provoked,Other,N
+668,Swimming,M,33,Unprovoked,unknown,N
+1159,Other,M,44,Boating,white shark,N
+303,Surfing,M,25,Unprovoked,white shark,N
+1113,Surfing,M,20,Unprovoked,white shark,N
+1584,Fishing,F,54,Unprovoked,unknown,N
+431,Surfing,M,34,Unprovoked,unknown,N
+43,Surfing,M,35,Unprovoked,white shark,N
+1430,Surfing,M,16,Unprovoked,white shark,N
+411,Standing,F,37,Unprovoked,unknown,N
+372,Other,M,7,Invalid,unknown,N
+791,Surfing,M,16,Unprovoked,tiger shark,N
+183,Swimming,M,52,Unprovoked,Other,Y
+75,Surfing,M,17,Unprovoked,white shark,N
+258,Swimming,M,21,Unprovoked,bull shark,N
+1870,Other,M,40,Unprovoked,unknown,N
+207,Swimming,M,50,Unprovoked,unknown,Y
+1834,Swimming,M,21,Unprovoked,tiger shark,N
+1664,Other,M,22,Unprovoked,tiger shark,Y
+1771,Standing,M,18,Unprovoked,white shark,N
+116,Surfing,M,43,Unprovoked,bronze whaler,N
+661,Other,F,14,Unprovoked,unknown,N
+593,Fishing,M,25,Provoked,raggedoth shark,N
+894,boarding,F,14,Unprovoked,unknown,N
+391,Other,M,49,Unprovoked,white shark,Y
+1767,Other,M,22,Unprovoked,blacktip shark,N
+1510,Other,M,22,Unprovoked,white shark,N
+1083,Swimming,F,26,Unprovoked,bull shark,N
+1041,Other,F,14,Unprovoked,blacktip shark,N
+926,Surfing,M,21,Unprovoked,unknown,N
+220,Surfing,M,19,Unprovoked,unknown,N
+673,Surfing,M,40,Unprovoked,bronze whaler,N
+338,Scuba diving,M,33,Unprovoked,white shark,Y
+1166,Surfing,M,29,Unprovoked,unknown,N
+1607,Swimming,M,38,Unprovoked,Other,Y
+1129,Snorkeling,F,41,Unprovoked,tiger shark,Y
+1327,Scuba diving,F,44,Provoked,Other,N
+332,Fishing,M,30,Boating,white shark,N
+205,Surfing,M,23,Unprovoked,white shark,N
+254,Swimming,M,74,Unprovoked,white shark,Y
+1163,Other,M,22,Unprovoked,white shark,N
+24,Snorkeling,M,45,Unprovoked,Other,N
+561,Snorkeling,M,36,Unprovoked,unknown,N
+873,Other,M,48,Unprovoked,white shark,N
+905,Surfing,M,35,Unprovoked,white shark,N
+1688,Standing,M,17,Provoked,unknown,N
+1034,Surfing,M,16,Unprovoked,unknown,N
+660,Swimming,M,22,Unprovoked,unknown,N
+164,Surfing,F,37,Invalid,white shark,N
+783,Surfing,M,47,Unprovoked,unknown,N
+1202,Spearfishing,M,28,Unprovoked,Other,N
+247,boarding,M,46,Unprovoked,tiger shark,N
+806,Fishing,M,55,Provoked,blacktip shark,N
+1068,Surfing,M,15,Unprovoked,unknown,N
+833,Surfing,M,17,Unprovoked,unknown,N
+1292,Other,M,28,Unprovoked,white shark,N
+1489,Swimming,M,18,Unprovoked,unknown,N
+1378,Surfing,M,21,Unprovoked,unknown,N
+1565,Other,M,39,Provoked,unknown,N
+785,Surfing,M,24,Unprovoked,unknown,N
+1618,Standing,M,13,Unprovoked,white shark,N
+1818,Swimming,M,27,Unprovoked,white shark,Y
+1715,Swimming,M,35,Unprovoked,unknown,N
+968,Surfing,M,23,Unprovoked,Other,N
+1548,Swimming,F,42,Unprovoked,white shark,Y
+787,Swimming,M,19,Unprovoked,bull shark,N
+1144,Swimming,F,65,Unprovoked,tiger shark,Y
+1718,Other,M,30,Unprovoked,unknown,N
+1106,Other,M,46,Boating,white shark,N
+455,Fishing,M,56,Unprovoked,bull shark,N
+945,Surfing,M,28,Unprovoked,unknown,N
+1259,Surfing,F,23,Unprovoked,unknown,N
+1713,Spearfishing,M,12,Unprovoked,unknown,N
+56,boarding,M,48,Unprovoked,white shark,N
+1322,Other,M,25,Unprovoked,unknown,N
+1137,Other,F,40,Boating,white shark,N
+1488,Fishing,M,18,Provoked,Other,N
+640,Wading,M,15,Unprovoked,unknown,N
+639,Surfing,M,26,Unprovoked,white shark,N
+354,Swimming,M,10,Unprovoked,wobbegong shark,N
+1667,Fishing,M,42,Unprovoked,unknown,N
+533,Surfing,M,24,Unprovoked,unknown,N
+1643,Other,M,19,Unprovoked,unknown,N
+766,Swimming,M,54,Unprovoked,unknown,N
+1405,Swimming,M,33,Unprovoked,unknown,N
+1131,Surfing,M,21,Unprovoked,unknown,N
+4,Other,M,32,Provoked,Other,N
+980,Surfing,M,19,Unprovoked,Other,N
+1261,Surfing,M,25,Unprovoked,white shark,N
+1092,Other,F,12,Unprovoked,unknown,N
+1705,Surfing,M,25,Provoked,Other,N
+750,Wading,M,22,Unprovoked,unknown,N
+982,Standing,M,50,Unprovoked,blacktip shark,N
+889,Standing,F,19,Unprovoked,unknown,N
+300,Surfing,M,14,Unprovoked,unknown,N
+1770,Swimming,M,12,Unprovoked,unknown,N
+350,Surfing,M,28,Unprovoked,unknown,N
+1182,Surfing,M,34,Unprovoked,white shark,N
+215,boarding,M,10,Unprovoked,unknown,N
+1611,Spearfishing,M,21,Unprovoked,white shark,N
+737,boarding,M,19,Unprovoked,white shark,Y
+1631,Swimming,F,16,Unprovoked,white shark,N
+1736,Other,M,40,Unprovoked,unknown,N
+1564,Fishing,M,49,Provoked,Other,N
+321,Swimming,M,6,Unprovoked,bull shark,N
+49,Other,M,40,Boating,white shark,N
+509,Other,F,40,Boating,white shark,N
+44,Surfing,M,37,Unprovoked,white shark,N
+713,Surfing,M,57,Unprovoked,tiger shark,Y
+85,Surfing,M,61,Unprovoked,white shark,N
+1019,Swimming,M,7,Unprovoked,Other,N
+797,Swimming,F,15,Unprovoked,bull shark,N
+1656,Other,M,43,Unprovoked,tiger shark,N
+1457,Surfing,M,22,Unprovoked,unknown,N
+418,Surfing,M,19,Unprovoked,unknown,N
+279,Fishing,M,51,Unprovoked,grey nurse,N
+227,Other,F,29,Unprovoked,bull shark,N
+729,Surfing,M,18,Unprovoked,unknown,N
+17,Wading,M,10,Unprovoked,wobbegong shark,N
+118,Fishing,M,26,Unprovoked,bull shark,N
+1460,Spearfishing,M,23,Unprovoked,unknown,Y
+61,Surfing,F,17,Unprovoked,white shark,Y
+1711,Swimming,M,25,Unprovoked,white shark,Y
+166,Wading,M,16,Unprovoked,bull shark,N
+841,Spearfishing,M,52,Provoked,white shark,N
+40,Snorkeling,F,40,Unprovoked,unknown,N
+1152,Surfing,M,24,Unprovoked,unknown,N
+771,Scuba diving,M,26,Unprovoked,wobbegong shark,N
+1026,Surfing,M,39,Unprovoked,unknown,N
+1042,boarding,M,12,Unprovoked,unknown,N
+1864,Wading,M,13,Unprovoked,unknown,Y
+1867,Swimming,M,24,Unprovoked,unknown,Y
+395,Snorkeling,F,70,Unprovoked,Other,Y
+1434,Fishing,M,13,Provoked,unknown,N
+1432,Other,M,43,Unprovoked,Other,N
+161,Standing,M,43,Unprovoked,unknown,N
+1856,Swimming,M,16,Unprovoked,unknown,Y
+273,Fishing,M,58,Provoked,Other,N
+490,Spearfishing,M,43,Unprovoked,white shark,N
+1603,Swimming,M,37,Unprovoked,Other,N
+170,Other,F,17,Unprovoked,nurse shark,N
+993,Scuba diving,M,30,Unprovoked,tiger shark,N
+1416,Spearfishing,M,27,Unprovoked,Other,N
+1444,Fishing,M,49,Provoked,Other,N
+654,Other,M,21,Provoked,Other,Y
+257,Wading,M,12,Unprovoked,bull shark,N
+278,Swimming,F,34,Unprovoked,tiger shark,N
+780,Surfing,M,14,Unprovoked,blacktip shark,N
+3,Other,M,15,Unprovoked,bull shark,N
+971,Other,M,51,Unprovoked,white shark,N
+676,Snorkeling,M,26,Unprovoked,white shark,Y
+1380,Other,M,34,Unprovoked,white shark,N
+1748,Standing,M,21,Unprovoked,unknown,N
+1453,Spearfishing,M,17,Unprovoked,Other,N
+1642,Standing,M,17,Unprovoked,unknown,N
+763,Surfing,M,50,Unprovoked,unknown,N
+883,Surfing,M,14,Unprovoked,unknown,N
+796,Surfing,M,13,Unprovoked,blacktip shark,N
+1090,Other,M,39,Unprovoked,white shark,N
+237,Surfing,M,28,Unprovoked,Other,N
+145,Surfing,M,52,Unprovoked,white shark,N
+701,Fishing,M,51,Unprovoked,Other,N
+1476,Other,F,8,Unprovoked,unknown,Y
+1755,Other,M,13,Unprovoked,unknown,Y
+1570,Other,M,20,Provoked,unknown,N
+1081,Other,M,27,Unprovoked,tiger shark,Y
+1756,Other,M,20,Unprovoked,white shark,Y
+690,Spearfishing,M,34,Unprovoked,tiger shark,N
+1777,Other,F,15,Unprovoked,blacktip shark,N
+1807,Fishing,M,20,Provoked,Other,N
+1506,Other,M,17,Unprovoked,blacktip shark,N
+693,Surfing,M,26,Unprovoked,white shark,N
+984,Snorkeling,F,47,Unprovoked,tiger shark,N
+756,Surfing,M,30,Unprovoked,unknown,N
+680,Fishing,M,39,Boating,white shark,N
+875,Wading,M,40,Unprovoked,unknown,N
+809,Surfing,M,34,Unprovoked,unknown,N
+804,Surfing,M,24,Unprovoked,white shark,N
+1293,Other,M,38,Unprovoked,white shark,N
+724,Spearfishing,M,40,Unprovoked,bull shark,N
+195,Surfing,M,50,Unprovoked,white shark,N
+299,Swimming,M,32,Unprovoked,unknown,Y
+167,Wading,F,12,Unprovoked,bull shark,N
+111,boarding,M,48,Unprovoked,tiger shark,N
+1246,Wading,F,13,Unprovoked,Other,N
+318,Surfing,M,24,Unprovoked,white shark,Y
+1672,Spearfishing,M,36,Unprovoked,tiger shark,N
+1752,Wading,M,36,Unprovoked,unknown,N
+1153,Surfing,M,50,Unprovoked,unknown,N
+462,Surfing,M,49,Unprovoked,blacktip shark,N
+878,Other,M,69,Unprovoked,unknown,Y
+1334,Spearfishing,M,29,Provoked,Other,N
+772,Swimming,M,23,Unprovoked,bull shark,Y
+1594,Swimming,M,16,Unprovoked,white shark,N
+1474,Spearfishing,M,29,Unprovoked,unknown,N
+994,Snorkeling,M,27,Unprovoked,unknown,N
+226,Other,F,37,Unprovoked,Other,N
+1414,Surfing,M,22,Unprovoked,unknown,N
+1591,Swimming,M,17,Unprovoked,unknown,N
+1255,Spearfishing,M,20,Provoked,Other,N
+360,Other,M,51,Boating,unknown,N
+672,Spearfishing,M,20,Unprovoked,Other,N
+559,Swimming,F,15,Unprovoked,unknown,N
+1353,Other,M,25,Unprovoked,bull shark,N
+947,Surfing,M,26,Unprovoked,unknown,N
+342,Surfing,M,17,Unprovoked,unknown,N
+1644,Swimming,M,21,Unprovoked,Other,N
+251,Other,M,45,Unprovoked,Other,N
+1358,Surfing,M,25,Unprovoked,white shark,N
+1630,Other,M,25,Unprovoked,Other,N
+832,Spearfishing,M,44,Unprovoked,bull shark,N
+880,Surfing,M,27,Unprovoked,Other,N
+1245,Other,M,24,Unprovoked,unknown,N
+656,Surfing,M,37,Unprovoked,white shark,N
+214,Swimming,M,7,Unprovoked,bull shark,N
+1299,Spearfishing,M,32,Unprovoked,white shark,Y
+1433,Spearfishing,M,20,Provoked,unknown,N
+604,Other,M,19,Unprovoked,white shark,N
+1099,Spearfishing,M,21,Unprovoked,unknown,N
+1852,Swimming,M,20,Unprovoked,unknown,Y
+1763,Fishing,M,9,Unprovoked,grey nurse,N
+542,Other,M,32,Unprovoked,tiger shark,N
+721,Snorkeling,M,22,Unprovoked,Other,N
+454,Swimming,F,22,Unprovoked,white shark,N
+1050,Swimming,M,29,Unprovoked,unknown,Y
+294,Surfing,M,32,Unprovoked,tiger shark,N
+1197,Surfing,M,23,Unprovoked,unknown,N
+726,Spearfishing,M,21,Unprovoked,tiger shark,Y
+434,boarding,M,18,Unprovoked,white shark,N
+1655,Spearfishing,M,19,Unprovoked,tiger shark,N
+1023,Surfing,M,25,Unprovoked,tiger shark,Y
+1862,Other,M,21,Unprovoked,white shark,Y
+856,Swimming,F,55,Unprovoked,unknown,N
+1388,Fishing,M,12,Provoked,Other,N
+566,Spearfishing,F,48,Unprovoked,bull shark,N
+1233,Spearfishing,M,26,Unprovoked,Other,N
+1519,Spearfishing,M,28,Unprovoked,Other,N
+1563,Spearfishing,M,28,Unprovoked,white shark,Y
+1407,Spearfishing,M,37,Unprovoked,white shark,Y
+1117,Snorkeling,M,26,Provoked,nurse shark,N
+122,Wading,F,28,Unprovoked,unknown,N
+891,Swimming,M,55,Unprovoked,bull shark,N
+1550,Swimming,M,25,Unprovoked,unknown,Y
+1598,Spearfishing,M,57,Provoked,unknown,N
+1806,Swimming,M,32,Unprovoked,white shark,Y
+1450,Fishing,M,18,Unprovoked,unknown,N
+1849,Fishing,M,70,Provoked,Other,N
+608,Spearfishing,F,28,Unprovoked,Other,N
+852,Standing,M,26,Unprovoked,unknown,N
+589,Surfing,M,24,Unprovoked,tiger shark,N
+1729,Fishing,M,34,Provoked,unknown,N
+1346,Scuba diving,M,34,Unprovoked,unknown,N
+1188,Surfing,M,27,Unprovoked,white shark,Y
+1462,Spearfishing,M,23,Unprovoked,white shark,Y
+453,Surfing,M,25,Unprovoked,white shark,Y
+504,Wading,M,16,Unprovoked,unknown,N
+570,Fishing,M,38,Provoked,Other,N
+1641,Surfing,M,19,Unprovoked,unknown,N
+1819,Standing,M,22,Unprovoked,white shark,Y
+83,Other,M,43,Provoked,nurse shark,N
+104,Swimming,M,12,Unprovoked,wobbegong shark,N
+1336,Other,M,34,Provoked,Other,N
+1674,Other,M,17,Unprovoked,tiger shark,N
+319,Other,M,52,Boating,unknown,N
+1858,Other,F,18,Unprovoked,unknown,Y
+788,Other,M,47,Unprovoked,white shark,N
+1110,Other,M,40,Unprovoked,white shark,N
+289,Scuba diving,M,48,Unprovoked,Other,N
+1485,Other,M,16,Unprovoked,Other,N
+1498,Swimming,M,35,Unprovoked,Other,N
+743,Spearfishing,M,39,Unprovoked,bull shark,N
+1278,Other,F,22,Unprovoked,bull shark,N
+1547,Fishing,M,24,Provoked,unknown,N
+614,Spearfishing,M,26,Unprovoked,tiger shark,N
+1399,Other,M,45,Unprovoked,white shark,N
+301,Other,M,30,Unprovoked,tiger shark,N
+1473,Spearfishing,M,19,Unprovoked,grey nurse,N
+1124,Surfing,M,21,Unprovoked,unknown,N
+1403,Other,M,42,Unprovoked,raggedoth shark,N
+66,Scuba diving,M,37,Unprovoked,Other,N
+146,Surfing,M,25,Unprovoked,blacktip shark,N
+700,Wading,M,11,Unprovoked,bull shark,N
+1800,Other,M,17,Unprovoked,unknown,Y
+376,Spearfishing,M,35,Unprovoked,unknown,N
+685,Swimming,F,77,Unprovoked,white shark,Y
+1608,Spearfishing,M,24,Unprovoked,grey nurse,N
+1499,Spearfishing,M,40,Unprovoked,Other,N
+1758,Swimming,M,17,Unprovoked,Other,Y
+1520,Spearfishing,M,21,Unprovoked,unknown,N
+353,Surfing,M,14,Unprovoked,wobbegong shark,N
+1580,Spearfishing,M,19,Provoked,bronze whaler,N
+103,Surfing,M,24,Unprovoked,bull shark,N
+1291,Other,M,36,Unprovoked,white shark,N
+1176,Other,M,46,Provoked,Other,N
+1372,Surfing,M,20,Unprovoked,bronze whaler,N
+1238,Spearfishing,M,29,Unprovoked,raggedoth shark,N
+348,Swimming,M,25,Unprovoked,unknown,Y
+1213,Surfing,M,12,Unprovoked,wobbegong shark,N
+586,Spearfishing,M,30,Unprovoked,tiger shark,N
+437,Standing,M,37,Unprovoked,white shark,Y
+1240,Surfing,M,22,Unprovoked,blacktip shark,N
+898,Surfing,M,26,Unprovoked,unknown,N
+63,Swimming,F,17,Unprovoked,bull shark,N
+1677,Other,F,28,Unprovoked,unknown,Y
+1482,Swimming,M,33,Unprovoked,white shark,Y
+110,Swimming,M,41,Unprovoked,tiger shark,N
+8,Surfing,M,60,Unprovoked,unknown,N
+907,Swimming,M,12,Unprovoked,Other,N
+1769,Swimming,M,30,Unprovoked,unknown,Y
+641,Standing,M,55,Unprovoked,unknown,N
+1843,Surfing,M,14,Unprovoked,unknown,Y
+1480,Swimming,F,13,Unprovoked,Other,Y
+900,Swimming,F,13,Unprovoked,Other,N
+1228,Surfing,M,40,Unprovoked,Other,N
+1757,Swimming,M,17,Unprovoked,Other,Y
+1781,Swimming,M,18,Unprovoked,white shark,Y
+242,Surfing,M,30,Unprovoked,unknown,N
+1441,Surfing,M,13,Unprovoked,unknown,N
+1571,Fishing,M,19,Provoked,Other,N
+482,Surfing,M,31,Unprovoked,white shark,N
+1105,Surfing,M,24,Unprovoked,unknown,N
+157,Other,M,12,Unprovoked,unknown,N
+550,Snorkeling,M,14,Unprovoked,nurse shark,N
+272,boarding,F,10,Unprovoked,unknown,N
+1196,Surfing,M,30,Unprovoked,unknown,N
+1648,Spearfishing,M,26,Unprovoked,unknown,Y
+1121,Surfing,F,36,Unprovoked,tiger shark,N
+298,Snorkeling,M,61,Unprovoked,tiger shark,N
+935,Surfing,M,25,Unprovoked,Other,N
+436,Surfing,M,29,Unprovoked,unknown,N
+1575,Swimming,M,10,Unprovoked,bronze whaler,Y
+810,Standing,M,43,Unprovoked,bull shark,N
+1681,Standing,F,14,Unprovoked,unknown,N
+1409,Other,M,17,Unprovoked,blacktip shark,N
+805,Other,M,16,Unprovoked,unknown,N
+414,Swimming,F,13,Unprovoked,tiger shark,N
+266,Fishing,M,17,Unprovoked,bull shark,N
+830,Wading,M,20,Unprovoked,unknown,N
+1275,Spearfishing,M,29,Unprovoked,white shark,N
+259,Surfing,F,13,Unprovoked,unknown,N
+1424,Scuba diving,M,30,Unprovoked,white shark,N
+1628,Fishing,M,18,Provoked,unknown,N
+438,Snorkeling,F,9,Unprovoked,Other,N
+1180,Surfing,M,17,Unprovoked,bronze whaler,N
+316,Surfing,M,48,Unprovoked,white shark,N
+1512,Swimming,M,19,Unprovoked,raggedoth shark,N
+1428,Scuba diving,M,32,Unprovoked,unknown,N
+91,Other,M,42,Unprovoked,unknown,N
+1290,Surfing,M,20,Unprovoked,unknown,N
+1717,Swimming,M,22,Unprovoked,Other,N
+408,Surfing,M,31,Unprovoked,white shark,Y
+32,Scuba diving,F,49,Unprovoked,tiger shark,Y
+1795,Swimming,M,20,Unprovoked,Other,Y
+1438,Swimming,M,12,Unprovoked,Other,N
+665,Swimming,M,20,Unprovoked,unknown,N
+1689,Swimming,M,22,Unprovoked,unknown,N
+340,Surfing,M,61,Unprovoked,bull shark,N
+1030,Scuba diving,M,25,Unprovoked,bull shark,Y
+7,Scuba diving,M,30,Unprovoked,tiger shark,N
+1052,Other,M,69,Unprovoked,unknown,Y
+620,Swimming,M,35,Unprovoked,tiger shark,N
+1355,Other,M,29,Unprovoked,white shark,N
+327,Surfing,M,42,Unprovoked,unknown,N
+556,Surfing,M,27,Unprovoked,unknown,N
+228,Other,M,10,Provoked,Other,N
+532,Surfing,M,26,Unprovoked,Other,N
+18,Swimming,M,69,Unprovoked,unknown,N
+1377,Scuba diving,M,37,Unprovoked,white shark,Y
+1606,Other,M,40,Unprovoked,Other,N
+710,Surfing,M,44,Unprovoked,unknown,N
+934,Surfing,M,35,Unprovoked,bronze whaler,N
+1053,Other,F,44,Unprovoked,unknown,Y
+1695,Fishing,M,34,Unprovoked,unknown,Y
+749,Surfing,M,33,Unprovoked,Other,N
+1098,Fishing,M,69,Provoked,bronze whaler,N
+1788,Fishing,M,53,Provoked,Other,N
+931,Swimming,M,52,Unprovoked,bull shark,Y
+1003,boarding,M,19,Unprovoked,tiger shark,N
+888,Wading,F,13,Unprovoked,unknown,N
+979,Surfing,M,17,Unprovoked,Other,N
+1745,Fishing,M,25,Unprovoked,unknown,N
+1199,Surfing,M,21,Unprovoked,unknown,N
+997,Surfing,M,22,Unprovoked,white shark,N
+1679,Spearfishing,M,18,Provoked,nurse shark,N
+50,Other,M,50,Unprovoked,white shark,N
+946,Spearfishing,M,25,Provoked,unknown,N
+1466,Other,M,22,Provoked,grey nurse,N
+351,Spearfishing,M,34,Unprovoked,Other,N
+1523,Spearfishing,M,35,Unprovoked,tiger shark,Y
+276,boarding,M,36,Unprovoked,bull shark,Y
+1250,Other,F,33,Unprovoked,white shark,Y
+390,Spearfishing,M,21,Unprovoked,unknown,N
+464,Spearfishing,M,27,Provoked,blacktip shark,N
+996,Surfing,M,45,Unprovoked,white shark,N
+467,Other,M,40,Unprovoked,unknown,N
+13,Fishing,M,56,Invalid,unknown,N
+416,Swimming,M,9,Provoked,Other,N
+1838,Surfing,F,17,Unprovoked,unknown,N
+1847,Swimming,M,17,Unprovoked,white shark,Y
+666,Other,F,38,Unprovoked,white shark,N
+1750,Surfing,M,14,Unprovoked,white shark,Y
+306,boarding,M,55,Unprovoked,unknown,N
+1496,Other,M,43,Unprovoked,Other,N
+1828,Swimming,M,24,Unprovoked,unknown,N
+1797,Other,M,38,Provoked,nurse shark,N
+619,boarding,M,15,Unprovoked,raggedoth shark,N
+736,Standing,M,15,Unprovoked,unknown,N
+583,Surfing,F,42,Unprovoked,unknown,N
+1573,Scuba diving,M,55,Provoked,Other,N
+142,Other,F,10,Unprovoked,unknown,N
+1539,Standing,F,18,Provoked,tiger shark,N
+1364,Other,M,17,Unprovoked,unknown,N
+1676,Other,M,29,Unprovoked,Other,N
+1884,Swimming,M,6,Unprovoked,bull shark,N
+1404,Other,M,26,Unprovoked,white shark,Y
+1257,Surfing,M,13,Unprovoked,unknown,N
+1636,Spearfishing,M,44,Unprovoked,unknown,N
+1524,Other,M,13,Unprovoked,unknown,Y
+236,Surfing,M,21,Unprovoked,Other,N
+349,Surfing,M,53,Unprovoked,white shark,N
+487,Scuba diving,M,34,Provoked,grey nurse,N
+1435,Scuba diving,M,25,Provoked,raggedoth shark,N
+398,Snorkeling,F,70,Unprovoked,Other,N
+923,Wading,F,30,Unprovoked,blacktip shark,N
+961,Swimming,F,14,Unprovoked,blacktip shark,N
+1015,Swimming,F,47,Unprovoked,tiger shark,N
+263,Fishing,M,50,Provoked,Other,N
+524,Surfing,M,13,Unprovoked,unknown,N
+461,Surfing,M,31,Unprovoked,blacktip shark,N
+243,Surfing,M,26,Unprovoked,wobbegong shark,N
+1215,Surfing,M,20,Unprovoked,unknown,N
+1508,Other,M,25,Unprovoked,Other,N
+445,Surfing,M,18,Unprovoked,unknown,N
+1500,Fishing,M,43,Provoked,unknown,Y
+1766,Other,M,21,Unprovoked,Other,N
+1431,Surfing,M,15,Unprovoked,white shark,N
+198,Snorkeling,M,53,Unprovoked,unknown,N
+1820,Other,F,13,Unprovoked,tiger shark,N
+1657,Other,M,14,Unprovoked,unknown,N
+578,boarding,M,12,Unprovoked,blacktip shark,N
+417,Fishing,M,20,Provoked,Other,N
+394,boarding,M,16,Unprovoked,unknown,N
+1231,Other,M,32,Unprovoked,unknown,N
+526,Surfing,M,27,Unprovoked,white shark,N
+507,Other,M,46,Unprovoked,white shark,N
+588,Surfing,M,24,Unprovoked,tiger shark,Y
+991,Surfing,M,22,Unprovoked,white shark,N
+936,Spearfishing,M,47,Unprovoked,bull shark,N
+1458,Other,M,15,Provoked,grey nurse,N
+1356,Other,M,19,Unprovoked,white shark,N
+714,Surfing,M,16,Unprovoked,white shark,N
+587,Other,M,41,Unprovoked,white shark,N
+884,Scuba diving,M,69,Unprovoked,Other,N
+1036,Swimming,M,16,Unprovoked,unknown,N
+988,Surfing,M,34,Unprovoked,Other,N
+903,Spearfishing,M,39,Invalid,unknown,N
+1179,Surfing,M,21,Unprovoked,white shark,N
+1410,Spearfishing,M,26,Unprovoked,Other,N
+1396,Other,M,36,Unprovoked,white shark,N
+621,Surfing,F,28,Unprovoked,tiger shark,N
+484,Other,M,29,Boating,white shark,N
+917,Surfing,M,62,Unprovoked,unknown,N
+211,Surfing,M,17,Unprovoked,Other,N
+1702,Swimming,F,15,Unprovoked,white shark,Y
+863,Swimming,M,49,Unprovoked,white shark,Y
+231,Swimming,F,40,Unprovoked,unknown,N
+1195,Surfing,M,15,Unprovoked,unknown,N
+1686,Swimming,M,25,Unprovoked,white shark,Y
+1423,Swimming,M,25,Unprovoked,unknown,N
+90,Spearfishing,M,43,Unprovoked,white shark,N
+731,Surfing,F,13,Unprovoked,tiger shark,N
+241,boarding,M,29,Unprovoked,tiger shark,N
+121,Surfing,M,20,Unprovoked,bull shark,N
+1260,Surfing,M,15,Unprovoked,blacktip shark,N
+727,Surfing,F,35,Unprovoked,unknown,N
+502,Wading,M,9,Unprovoked,unknown,N
+1749,Swimming,M,16,Unprovoked,Other,N
+1649,Spearfishing,M,32,Provoked,Other,N
+717,Surfing,M,20,Unprovoked,unknown,N
+60,Other,M,29,Provoked,unknown,N
+450,Other,M,23,Unprovoked,bull shark,N
+1743,Other,M,18,Boating,unknown,N
+177,Surfing,M,26,Unprovoked,white shark,N
+222,Spearfishing,M,42,Unprovoked,Other,N
+530,Other,M,20,Provoked,Other,N
+370,Surfing,M,32,Unprovoked,Other,N
+1379,Scuba diving,M,23,Unprovoked,white shark,N
+1559,Spearfishing,M,26,Unprovoked,unknown,N
+165,Standing,M,9,Unprovoked,unknown,N
+331,Surfing,M,22,Unprovoked,unknown,N
+595,Swimming,M,29,Unprovoked,unknown,N
+1160,Surfing,M,22,Unprovoked,white shark,N
+667,Spearfishing,M,22,Unprovoked,white shark,Y
+1590,Surfing,M,22,Unprovoked,Other,Y
+296,Spearfishing,M,31,Unprovoked,tiger shark,N
+368,Surfing,M,49,Unprovoked,white shark,Y
+92,Spearfishing,M,19,Provoked,unknown,N
+1540,Fishing,F,21,Unprovoked,tiger shark,N
+441,Swimming,M,24,Unprovoked,white shark,Y
+175,Other,M,29,Unprovoked,white shark,N
+1448,Fishing,M,22,Boat,Other,N
+1037,Swimming,M,23,Unprovoked,Other,N
+815,Swimming,M,20,Unprovoked,unknown,N
+725,Surfing,M,22,Unprovoked,raggedoth shark,N
+102,Fishing,M,39,Provoked,Other,N
+603,Surfing,M,41,Unprovoked,white shark,N
+358,Surfing,M,41,Unprovoked,white shark,N
+1014,Swimming,F,16,Unprovoked,wobbegong shark,N
+1134,Other,M,36,Provoked,Other,N
+352,Surfing,M,51,Unprovoked,white shark,N
+1440,Other,M,53,Unprovoked,white shark,N
+1836,Swimming,M,23,Unprovoked,white shark,N
+822,Snorkeling,M,35,Unprovoked,tiger shark,N
+1866,Swimming,M,24,Unprovoked,unknown,Y
+21,Swimming,F,55,Unprovoked,white shark,N
+1101,Standing,M,10,Unprovoked,tiger shark,N
+728,Surfing,M,35,Unprovoked,tiger shark,N
+1385,Surfing,M,16,Unprovoked,unknown,N
+1463,Spearfishing,M,15,Unprovoked,nurse shark,N
+819,Surfing,M,20,Unprovoked,tiger shark,N
+99,Swimming,F,22,Unprovoked,bull shark,N
+27,Surfing,M,20,Unprovoked,unknown,N
+1282,Surfing,F,39,Unprovoked,Other,N
+234,Swimming,M,66,Unprovoked,unknown,Y
+859,Spearfishing,M,38,Unprovoked,bronze whaler,N
+386,Surfing,M,41,Unprovoked,bronze whaler,N
+152,Surfing,M,38,Unprovoked,white shark,N
+1557,Spearfishing,M,24,Unprovoked,Other,N
+388,boarding,F,24,Unprovoked,unknown,N
+948,boarding,M,16,Unprovoked,white shark,N
+252,Surfing,M,25,Unprovoked,tiger shark,N
+1859,Swimming,M,19,Unprovoked,unknown,Y
+1368,Other,M,35,Provoked,grey nurse,N
+163,Swimming,M,6,Unprovoked,tiger shark,N
+1078,Surfing,M,15,Unprovoked,white shark,N
+549,Surfing,M,23,Unprovoked,unknown,N
+1201,Surfing,M,27,Unprovoked,white shark,N
+1361,Surfing,M,15,Unprovoked,tiger shark,N
+1333,Spearfishing,M,29,Unprovoked,unknown,N
+98,Swimming,M,13,Unprovoked,unknown,N
+15,Surfing,M,19,Unprovoked,white shark,N
+1005,Fishing,M,21,Unprovoked,Other,N
+217,Surfing,M,51,Unprovoked,Other,N
+893,Swimming,M,26,Unprovoked,unknown,N
+320,Surfing,M,29,Unprovoked,unknown,N
+95,Other,F,60,Unprovoked,unknown,Y
+733,Wading,F,41,Unprovoked,unknown,N
+282,boarding,M,53,Unprovoked,Other,N
+902,Surfing,M,18,Unprovoked,unknown,N
+1706,Swimming,F,32,Unprovoked,white shark,Y
+1286,Other,M,16,Unprovoked,unknown,N
+752,Surfing,M,34,Provoked,unknown,N
+1225,Surfing,M,18,Unprovoked,bronze whaler,N
+387,Surfing,M,48,Unprovoked,bull shark,N
+877,Swimming,M,47,Unprovoked,unknown,N
+649,Surfing,M,26,Unprovoked,white shark,N
+330,Spearfishing,M,46,Unprovoked,bull shark,N
+1222,Surfing,F,32,Unprovoked,unknown,N
+1120,Surfing,M,35,Unprovoked,unknown,N
+235,Surfing,M,21,Unprovoked,blacktip shark,N
+1593,Other,M,22,Unprovoked,Other,N
+1587,Standing,M,24,Unprovoked,unknown,N
+149,Surfing,M,40,Unprovoked,bronze whaler,N
+753,Surfing,M,17,Unprovoked,bull shark,N
+1058,Surfing,M,17,Unprovoked,unknown,N
+82,Swimming,M,40,Unprovoked,Other,N
+786,Surfing,M,35,Unprovoked,unknown,N
+691,Surfing,M,34,Unprovoked,raggedoth shark,N
+1821,Swimming,F,18,Unprovoked,white shark,Y
+568,Surfing,M,20,Unprovoked,unknown,N
+1799,Surfing,M,50,Unprovoked,unknown,N
+154,Surfing,M,52,Unprovoked,white shark,N
+1741,Other,M,17,Provoked,unknown,N
+520,Surfing,M,30,Unprovoked,unknown,N
+1332,boarding,M,24,Unprovoked,white shark,N
+1069,Spearfishing,M,30,Unprovoked,unknown,N
+1297,Swimming,M,20,Unprovoked,unknown,N
+671,Fishing,M,25,Provoked,Other,N
+919,Surfing,M,42,Unprovoked,white shark,N
+525,Other,M,8,Unprovoked,unknown,N
+1764,Swimming,M,20,Unprovoked,unknown,Y
+229,Surfing,M,35,Unprovoked,white shark,N
+384,Other,M,17,Unprovoked,Other,N
+1387,Fishing,M,45,Unprovoked,Other,N
+1625,Other,M,25,Provoked,Other,N
+670,Surfing,M,47,Unprovoked,tiger shark,N
+650,Surfing,M,44,Unprovoked,bronze whaler,N
+473,Fishing,M,40,Provoked,Other,N
+1389,Spearfishing,M,25,Unprovoked,Other,N
+644,Surfing,F,20,Unprovoked,white shark,N
+1097,Spearfishing,M,55,Unprovoked,white shark,N
+643,Surfing,M,36,Unprovoked,white shark,N
+874,Swimming,M,28,Unprovoked,unknown,Y
+1844,Swimming,M,17,Unprovoked,Other,Y
+599,Surfing,M,52,Unprovoked,unknown,N
+1312,Other,F,27,Unprovoked,white shark,Y
+1374,Surfing,M,19,Unprovoked,white shark,N
+72,Fishing,M,73,Provoked,Other,N
+124,Surfing,M,21,Unprovoked,unknown,N
+1850,Swimming,M,15,Unprovoked,unknown,Y
+645,Surfing,M,22,Unprovoked,tiger shark,N
+1477,Other,M,32,Unprovoked,bronze whaler,N
+1274,Wading,M,20,Unprovoked,unknown,N
+1303,Other,M,59,Unprovoked,Other,N
+953,Wading,M,47,Unprovoked,raggedoth shark,N
+347,Surfing,M,44,Unprovoked,white shark,N
+834,Surfing,M,20,Unprovoked,blacktip shark,N
+209,Fishing,M,52,Provoked,unknown,N
+647,Other,M,52,Unprovoked,white shark,N
+869,Surfing,M,25,Unprovoked,white shark,Y
+492,Swimming,M,43,Provoked,bronze whaler,N
+1586,Standing,F,18,Unprovoked,unknown,Y
+1253,Surfing,M,18,Unprovoked,white shark,N
+553,boarding,M,15,Unprovoked,tiger shark,N
+292,boarding,M,29,Unprovoked,bull shark,N
+421,Swimming,M,17,Unprovoked,unknown,N
+1192,Surfing,M,17,Unprovoked,tiger shark,N
+343,Other,F,34,Provoked,Other,N
+1194,Surfing,M,38,Unprovoked,unknown,N
+481,Surfing,F,13,Unprovoked,white shark,N
+1492,Other,M,33,Provoked,Other,N
+261,Standing,M,25,Unprovoked,unknown,N
+413,Swimming,M,10,Unprovoked,blacktip shark,N
+1637,Spearfishing,M,22,Unprovoked,bronze whaler,N
+1760,Spearfishing,M,30,Provoked,Other,N
+1861,Standing,F,14,Unprovoked,Other,Y
+715,Surfing,M,20,Unprovoked,bull shark,N
+396,Snorkeling,M,54,Unprovoked,Other,N
+655,Scuba diving,M,23,Unprovoked,white shark,Y
+842,Wading,F,29,Unprovoked,unknown,N
+381,Spearfishing,M,28,Unprovoked,Other,Y
+439,Swimming,M,27,Unprovoked,Other,N
+1248,Snorkeling,M,13,Unprovoked,white shark,N
+1467,Spearfishing,M,32,Unprovoked,white shark,N
+1848,Surfing,M,17,Unprovoked,grey nurse,N
+734,Surfing,M,30,Unprovoked,unknown,N
+397,Snorkeling,M,46,Unprovoked,Other,N
+46,Swimming,M,13,Unprovoked,blacktip shark,N
+255,Other,M,55,Unprovoked,white shark,N
+256,Surfing,M,45,Unprovoked,white shark,N
+1208,Surfing,M,17,Unprovoked,unknown,N
+1687,Surfing,M,15,Unprovoked,wobbegong shark,N
+359,Other,M,50,Unprovoked,unknown,N
+1088,Spearfishing,M,51,Unprovoked,blacktip shark,N
+963,Other,F,35,Unprovoked,unknown,Y
+1148,Surfing,M,38,Unprovoked,white shark,N
+143,Fishing,M,22,Boating,white shark,N
+280,Other,M,9,Unprovoked,unknown,N
+732,Surfing,M,19,Unprovoked,unknown,N
+562,Wading,M,15,Unprovoked,bronze whaler,N
+449,Other,M,23,Provoked,Other,N
+571,Wading,F,38,Unprovoked,unknown,N
+23,Other,F,46,Invalid,Other,N
+675,Surfing,M,32,Unprovoked,unknown,N
+913,Wading,M,7,Provoked,unknown,N
+741,Other,M,10,Provoked,unknown,N
+1070,Surfing,M,28,Unprovoked,Other,N
+1056,Swimming,M,22,Unprovoked,raggedoth shark,N
+1264,Swimming,F,18,Unprovoked,unknown,N
+295,Surfing,M,60,Unprovoked,unknown,N
+1024,Other,M,22,Unprovoked,white shark,N
+1589,Spearfishing,M,23,Provoked,grey nurse,N
+127,Surfing,M,25,Unprovoked,tiger shark,N
+58,Snorkeling,F,32,Unprovoked,tiger shark,N
+515,Fishing,M,40,Unprovoked,bull shark,N
+757,Surfing,M,23,Unprovoked,unknown,N
+958,boarding,M,15,Unprovoked,white shark,N
+983,Fishing,M,55,Unprovoked,white shark,Y
+345,Snorkeling,M,26,Unprovoked,tiger shark,N
+333,boarding,F,15,Unprovoked,white shark,N
+908,Swimming,M,12,Unprovoked,Other,N
+1348,Surfing,M,18,Unprovoked,tiger shark,N
+557,Surfing,M,16,Unprovoked,unknown,N
+770,Snorkeling,M,25,Unprovoked,white shark,N
+697,Swimming,M,47,Unprovoked,unknown,N
+326,Swimming,M,16,Unprovoked,blacktip shark,N
+71,Surfing,M,65,Unprovoked,white shark,N
+1186,Other,M,28,Unprovoked,white shark,N
+451,Fishing,M,39,Provoked,Other,N
+687,Other,M,40,Unprovoked,bull shark,N
+565,Wading,F,30,Unprovoked,unknown,N
+1304,Swimming,M,19,Unprovoked,unknown,N
+941,Other,M,13,Unprovoked,unknown,N
+1302,Surfing,M,24,Unprovoked,white shark,Y
+1204,Spearfishing,M,36,Unprovoked,white shark,N
+1086,Wading,M,19,Unprovoked,unknown,N
+452,Swimming,M,60,Invalid,unknown,Y
+406,Surfing,M,15,Unprovoked,unknown,N
+269,Other,M,64,Unprovoked,nurse shark,N
+1317,Surfing,M,24,Unprovoked,unknown,N
+1102,Other,M,30,Unprovoked,tiger shark,N
+465,Spearfishing,M,48,Provoked,unknown,N
+361,Swimming,M,43,Unprovoked,white shark,N
+1017,Other,M,24,Unprovoked,bronze whaler,N
+463,Surfing,M,55,Unprovoked,blacktip shark,N
+1543,Other,M,30,Unprovoked,unknown,Y
+1632,Other,M,16,Unprovoked,white shark,N
+1805,Swimming,M,33,Unprovoked,Other,Y
+1289,Surfing,M,16,Unprovoked,Other,N
+248,Snorkeling,F,60,Unprovoked,Other,N
+1533,Swimming,M,24,Unprovoked,unknown,N
+914,Surfing,M,28,Unprovoked,unknown,N
+1665,Swimming,M,21,Unprovoked,unknown,Y
+954,Surfing,M,16,Unprovoked,unknown,N
+212,Surfing,M,29,Unprovoked,unknown,N
+1504,Spearfishing,M,28,Unprovoked,white shark,N
+1051,Surfing,M,15,Unprovoked,bull shark,N
+253,Wading,M,6,Unprovoked,nurse shark,N
+590,Surfing,M,25,Unprovoked,unknown,N
+808,Other,M,23,Unprovoked,white shark,Y
+1033,Surfing,M,19,Unprovoked,unknown,N
+506,Spearfishing,M,42,Unprovoked,bull shark,N
+1605,Spearfishing,M,21,Provoked,wobbegong shark,N
+171,Surfing,M,47,Unprovoked,bull shark,N
+1663,Surfing,M,15,Unprovoked,tiger shark,Y
+1125,boarding,M,19,Unprovoked,bronze whaler,N
+927,Wading,M,5,Unprovoked,blacktip shark,N
+313,Fishing,M,53,Provoked,unknown,N
+1103,Spearfishing,M,31,Unprovoked,Other,N
+1497,Surfing,M,15,Unprovoked,unknown,N
+356,Surfing,M,26,Unprovoked,unknown,N
+1873,Fishing,M,15,Unprovoked,white shark,N
+1043,Fishing,F,32,Provoked,blacktip shark,N
+1206,Other,M,37,Unprovoked,Other,N
+197,Surfing,M,44,Unprovoked,unknown,N
+1773,Other,M,37,Unprovoked,unknown,N
+424,Other,F,58,Unprovoked,Other,N
+1047,Swimming,F,10,Unprovoked,unknown,N
+512,Surfing,M,49,Unprovoked,unknown,N
+1740,Other,M,19,Unprovoked,nurse shark,N
+1345,Spearfishing,M,27,Unprovoked,white shark,N
+943,Fishing,M,52,Provoked,unknown,N
+1408,Surfing,M,16,Unprovoked,unknown,N
+1258,Spearfishing,M,29,Provoked,unknown,N
+872,Surfing,M,25,Unprovoked,unknown,N
+1277,Other,M,14,Provoked,nurse shark,N
+19,Surfing,M,18,Unprovoked,unknown,N
+169,Other,M,11,Unprovoked,bull shark,N
+1270,Scuba diving,M,48,Unprovoked,white shark,N
+1527,Spearfishing,M,26,Unprovoked,white shark,N
+385,Surfing,M,49,Unprovoked,unknown,N
+850,Surfing,M,19,Unprovoked,blacktip shark,N
+1059,boarding,M,26,Unprovoked,white shark,N
+11,boarding,M,29,Unprovoked,unknown,N
+911,Wading,F,61,Unprovoked,Other,N
+1307,Surfing,M,15,Unprovoked,unknown,N
+933,Swimming,F,29,Unprovoked,unknown,N
+1837,Other,M,16,Unprovoked,tiger shark,Y
+374,Scuba diving,M,22,Unprovoked,bull shark,N
+317,Surfing,M,50,Unprovoked,unknown,N
+910,Other,M,37,Unprovoked,white shark,N
+605,Surfing,M,14,Unprovoked,unknown,N
+1072,Wading,F,36,Unprovoked,unknown,N
+14,Swimming,M,12,Unprovoked,bull shark,N
+1400,Spearfishing,M,22,Unprovoked,raggedoth shark,N
+876,Surfing,M,27,Unprovoked,tiger shark,N
+1320,Spearfishing,M,25,Unprovoked,tiger shark,N
+443,Wading,M,10,Unprovoked,unknown,N
+223,Standing,M,16,Unprovoked,Other,N
+866,Surfing,M,17,Unprovoked,unknown,N
+1287,Spearfishing,M,32,Unprovoked,white shark,N
+80,boarding,M,21,Unprovoked,tiger shark,N
+862,Swimming,M,52,Unprovoked,white shark,N
+1127,Spearfishing,M,36,Unprovoked,blacktip shark,N
+472,Wading,M,21,Provoked,wobbegong shark,N
+1732,Swimming,M,23,Unprovoked,white shark,N
+1784,Swimming,F,28,Unprovoked,bull shark,Y
+1048,Swimming,M,38,Unprovoked,tiger shark,N
+1308,Spearfishing,M,19,Provoked,Other,N
+1273,Surfing,M,16,Unprovoked,unknown,N
+569,Other,F,40,Provoked,unknown,N
+1832,Swimming,F,20,Unprovoked,Other,N
+1621,Fishing,M,33,Unprovoked,grey nurse,N
+762,Surfing,M,28,Unprovoked,Other,N
+311,boarding,F,8,Unprovoked,unknown,N
+1720,Other,M,26,Unprovoked,unknown,N
+64,Spearfishing,M,25,Unprovoked,unknown,N
+81,Surfing,M,22,Unprovoked,blacktip shark,N
+1269,Swimming,M,14,Unprovoked,raggedoth shark,N
+867,Surfing,M,23,Unprovoked,blacktip shark,N
+702,Surfing,M,30,Unprovoked,Other,Y
+708,Wading,M,16,Unprovoked,unknown,N
+1000,Other,M,23,Unprovoked,white shark,N
+1730,Spearfishing,M,18,Provoked,wobbegong shark,N
+1375,Other,M,20,Unprovoked,unknown,N
+1851,Other,M,17,Unprovoked,grey nurse,N
+25,Spearfishing,M,14,Invalid,unknown,N
+634,Spearfishing,M,44,Unprovoked,Other,N
+897,Spearfishing,M,39,Unprovoked,unknown,N
+108,Fishing,M,34,Unprovoked,unknown,N
+617,Fishing,M,35,Provoked,bull shark,N
+582,Surfing,M,11,Unprovoked,unknown,N
+1190,Other,F,24,Unprovoked,white shark,Y
+1359,Surfing,M,20,Unprovoked,white shark,N
+531,Surfing,M,20,Unprovoked,unknown,N
+1064,Other,F,12,Unprovoked,unknown,N
+577,Swimming,F,13,Unprovoked,unknown,N
+10,Other,M,33,Unprovoked,white shark,N
+623,Surfing,M,15,Unprovoked,bronze whaler,N
+1301,Swimming,M,20,Unprovoked,raggedoth shark,N
+637,Fishing,M,32,Provoked,raggedoth shark,N
+239,Snorkeling,M,37,Unprovoked,unknown,N
+1367,Spearfishing,M,27,Unprovoked,white shark,N
+1392,Swimming,F,20,Unprovoked,unknown,N
+1093,Other,M,22,Unprovoked,unknown,N
+1507,Other,M,16,Unprovoked,Other,N
+1276,Swimming,F,14,Unprovoked,Other,N
+1615,Swimming,M,14,Unprovoked,Other,Y
+486,Fishing,M,15,Provoked,raggedoth shark,N
+1774,Swimming,M,15,Unprovoked,bull shark,N
+210,Surfing,F,13,Unprovoked,Other,N
+1029,Surfing,M,19,Unprovoked,unknown,N
+847,Surfing,M,21,Unprovoked,blacktip shark,N
+444,Fishing,M,31,Unprovoked,Other,N
+1455,Wading,M,35,Unprovoked,unknown,N
+378,Spearfishing,M,28,Unprovoked,Other,N
+1712,Other,M,13,Unprovoked,bronze whaler,Y
+1085,Spearfishing,M,36,Unprovoked,white shark,N
+1156,Surfing,M,19,Unprovoked,unknown,N
+1060,Other,M,42,Unprovoked,white shark,Y
+140,Surfing,M,21,Unprovoked,white shark,N
+858,Other,M,30,Unprovoked,unknown,N
+470,Surfing,F,17,Unprovoked,unknown,N
+965,Scuba diving,M,16,Provoked,nurse shark,N
+1609,Spearfishing,M,24,Unprovoked,bronze whaler,N
+1633,Other,M,48,Unprovoked,white shark,N
+191,Other,M,17,Unprovoked,unknown,N
+1658,Other,M,20,Unprovoked,grey nurse,N
+1599,Spearfishing,M,21,Unprovoked,white shark,N
+422,boarding,F,18,Unprovoked,unknown,N
+632,Surfing,M,30,Unprovoked,white shark,N
+1662,Swimming,M,18,Unprovoked,white shark,N
+1825,Other,M,17,Unprovoked,tiger shark,N
+1169,Swimming,M,10,Unprovoked,Other,N
+747,Swimming,M,60,Unprovoked,unknown,N
+1822,Swimming,M,15,Unprovoked,unknown,Y
+527,Other,M,49,Unprovoked,bull shark,Y
+1661,Surfing,M,17,Unprovoked,unknown,N
+1318,Swimming,M,30,Unprovoked,Other,N
+1694,Fishing,M,27,Unprovoked,Other,N
+1701,Other,M,25,Unprovoked,unknown,N
+882,Snorkeling,F,45,Unprovoked,nurse shark,N
+579,Surfing,M,24,Unprovoked,unknown,N
+1765,Fishing,M,46,Provoked,unknown,N
+918,Spearfishing,M,35,Unprovoked,bull shark,N
+150,Surfing,M,45,Unprovoked,bull shark,N
+1456,Spearfishing,M,26,Unprovoked,bronze whaler,N
+1634,Surfing,M,17,Unprovoked,white shark,N
+457,Swimming,F,43,Provoked,nurse shark,N
+836,Surfing,M,19,Unprovoked,blacktip shark,N
+768,Swimming,M,84,Unprovoked,unknown,Y
+711,Spearfishing,M,63,Provoked,Other,N
+782,Surfing,M,18,Unprovoked,unknown,N
+100,Swimming,M,48,Unprovoked,blacktip shark,N
+1517,Swimming,M,20,Unprovoked,unknown,N
+795,Standing,M,14,Unprovoked,unknown,N
+68,Surfing,M,48,Unprovoked,bull shark,N
+904,Swimming,F,51,Unprovoked,tiger shark,N
+495,Surfing,M,51,Unprovoked,unknown,N
+840,Swimming,M,14,Unprovoked,unknown,N
+989,Surfing,M,12,Unprovoked,Other,N
+1597,Fishing,M,38,Unprovoked,unknown,N
+912,Surfing,M,13,Unprovoked,unknown,N
+478,Spearfishing,M,15,Unprovoked,bull shark,N
+309,Surfing,M,22,Unprovoked,unknown,N
+262,Other,M,9,Unprovoked,unknown,N
+529,Other,M,42,Unprovoked,blacktip shark,N
+1514,Other,M,25,Unprovoked,white shark,N
+284,Fishing,M,30,Provoked,raggedoth shark,N
+1128,Other,M,25,Unprovoked,white shark,N
+1610,Swimming,M,24,Unprovoked,unknown,N
+758,Surfing,M,18,Unprovoked,unknown,N
+497,Fishing,M,52,Provoked,Other,N
+1018,Swimming,F,32,Provoked,nurse shark,N
+1471,Fishing,M,30,Unprovoked,unknown,N
+606,Standing,M,49,Unprovoked,Other,N
+967,Swimming,M,32,Unprovoked,Other,N
+429,Surfing,M,35,Unprovoked,unknown,N
+513,Surfing,M,21,Unprovoked,unknown,Y
+1623,Spearfishing,M,24,Unprovoked,wobbegong shark,N
+219,Swimming,M,39,Unprovoked,unknown,N
+585,Spearfishing,M,16,Provoked,tiger shark,N
+921,Surfing,M,43,Unprovoked,tiger shark,N
+26,Other,M,28,Unprovoked,white shark,N
+62,Surfing,M,28,Unprovoked,tiger shark,N
+906,Swimming,M,39,Unprovoked,unknown,N
+1242,boarding,M,22,Unprovoked,white shark,N
+41,Surfing,M,13,Unprovoked,unknown,N
+1449,Spearfishing,M,24,Unprovoked,white shark,Y
+249,boarding,M,24,Unprovoked,unknown,N
+1266,Other,F,13,Unprovoked,Other,N
+1470,Other,M,15,Provoked,Other,N
+625,Surfing,M,15,Unprovoked,raggedoth shark,N
+630,Surfing,M,21,Unprovoked,unknown,N
+1094,Scuba diving,M,31,Unprovoked,Other,Y
+475,Surfing,M,33,Unprovoked,white shark,N
+324,Fishing,M,23,Provoked,nurse shark,N
+1349,Spearfishing,M,25,Unprovoked,white shark,N
+1751,Other,M,35,Unprovoked,grey nurse,N
+1104,Surfing,M,19,Unprovoked,blacktip shark,N
+367,Surfing,M,19,Unprovoked,unknown,N
+485,Snorkeling,M,51,Unprovoked,white shark,Y
+922,boarding,M,14,Unprovoked,white shark,Y
+271,Swimming,M,28,Unprovoked,tiger shark,N
+800,Standing,F,9,Unprovoked,bull shark,N
+848,boarding,M,12,Unprovoked,blacktip shark,N
+636,Surfing,M,18,Unprovoked,unknown,N
+1759,Other,M,41,Provoked,Other,N
+774,Swimming,F,34,Unprovoked,unknown,N
+1568,Other,M,23,Unprovoked,unknown,N
+476,Other,M,31,Unprovoked,bull shark,N
+657,Swimming,M,8,Unprovoked,Other,N
+39,Surfing,M,54,Unprovoked,tiger shark,N
+1874,Other,M,19,Unprovoked,unknown,N
+1123,Other,M,41,Unprovoked,white shark,Y
+864,Surfing,M,27,Unprovoked,white shark,N
+1613,Fishing,M,44,Provoked,Other,N
+1425,Swimming,M,34,Unprovoked,white shark,Y
+1171,Surfing,M,12,Unprovoked,unknown,N
+1776,Swimming,M,17,Unprovoked,white shark,Y
+1177,Other,M,30,Provoked,grey nurse,N
+716,boarding,M,22,Unprovoked,bull shark,N
+705,boarding,M,17,Unprovoked,bronze whaler,N
+405,Swimming,M,29,Unprovoked,white shark,Y
+221,Other,M,48,Boat,Other,N
+283,Surfing,M,58,Unprovoked,unknown,N
+974,Surfing,M,12,Unprovoked,unknown,N
+1845,Other,M,15,Unprovoked,unknown,N
+952,Spearfishing,M,24,Unprovoked,white shark,N
+1338,Other,M,32,Unprovoked,unknown,N
+480,Snorkeling,M,24,Unprovoked,Other,N
+807,Fishing,M,31,Unprovoked,unknown,N
+683,Surfing,M,20,Unprovoked,raggedoth shark,N
+1154,Surfing,M,25,Unprovoked,Other,N
+871,Surfing,M,31,Unprovoked,white shark,Y
+1669,Swimming,M,8,Unprovoked,tiger shark,N
+501,Swimming,M,33,Unprovoked,unknown,N
+55,boarding,M,34,Unprovoked,bull shark,N
+1143,Swimming,M,31,Unprovoked,bull shark,N
+547,Swimming,F,23,Unprovoked,tiger shark,Y
+560,Other,F,19,Unprovoked,bull shark,N
+1734,Swimming,M,18,Unprovoked,white shark,N
+1158,Spearfishing,M,49,Unprovoked,white shark,N
+1342,Surfing,M,27,Unprovoked,blacktip shark,N
+1284,Fishing,M,27,Unprovoked,raggedoth shark,N
+1210,Other,F,15,Unprovoked,Other,N
+1881,Other,M,19,Provoked,nurse shark,N
+1181,Fishing,M,41,Provoked,white shark,N
+186,Swimming,F,22,Unprovoked,tiger shark,Y
+499,Other,F,38,Unprovoked,bull shark,N
+1601,Other,M,20,Unprovoked,white shark,N
+992,Swimming,F,21,Unprovoked,unknown,N
+554,Surfing,M,24,Unprovoked,white shark,N
+1739,Swimming,M,14,Unprovoked,unknown,N
+1065,Surfing,M,24,Unprovoked,bull shark,Y
+428,Surfing,M,68,Unprovoked,unknown,N
+393,Scuba diving,M,55,Unprovoked,Other,N
+335,boarding,M,20,Unprovoked,white shark,Y
+957,boarding,M,20,Unprovoked,white shark,Y
+47,Snorkeling,F,20,Unprovoked,Other,N
+699,Swimming,F,19,Unprovoked,unknown,N
+403,Surfing,M,22,Unprovoked,bull shark,N
+865,Swimming,F,56,Unprovoked,tiger shark,N
+1521,Other,M,30,Unprovoked,Other,N
+471,Swimming,M,61,Unprovoked,unknown,N
+308,Surfing,M,21,Unprovoked,unknown,N
+147,Other,M,46,Unprovoked,white shark,Y
+835,Surfing,M,19,Unprovoked,blacktip shark,N
+1185,Surfing,M,16,Unprovoked,white shark,N
+1309,Snorkeling,M,53,Unprovoked,Other,N
+1616,Swimming,M,15,Unprovoked,white shark,N
+1205,Scuba diving,M,42,Unprovoked,tiger shark,N
+120,Surfing,M,28,Unprovoked,Other,N
+1362,Surfing,M,19,Unprovoked,white shark,N
+1262,Surfing,M,16,Unprovoked,Other,N
+144,Spearfishing,M,57,Provoked,Other,N
+1486,Other,M,34,Provoked,unknown,N
+29,Wading,M,24,Provoked,Other,N
+264,Snorkeling,F,20,Unprovoked,tiger shark,Y
+128,Wading,M,13,Unprovoked,unknown,N
+503,Wading,F,8,Unprovoked,unknown,N
+1577,Other,M,13,Unprovoked,white shark,Y
+1209,Surfing,M,20,Unprovoked,unknown,N
+1635,Other,M,42,Unprovoked,unknown,N
+1079,Swimming,M,23,Unprovoked,unknown,N
+1393,Scuba diving,M,41,Unprovoked,white shark,N
+1791,Swimming,M,17,Unprovoked,white shark,Y
+1383,Swimming,M,18,Unprovoked,unknown,N
+1804,Other,M,38,Unprovoked,tiger shark,N
+765,Wading,M,37,Unprovoked,unknown,N
+792,Surfing,M,27,Unprovoked,unknown,N
+522,boarding,M,16,Unprovoked,bull shark,Y
+682,Spearfishing,M,38,Unprovoked,bull shark,Y
+415,Surfing,M,55,Unprovoked,Other,N
+54,Swimming,F,14,Unprovoked,bull shark,N
+409,Fishing,M,45,Boating,white shark,N
+12,Swimming,M,54,Unprovoked,Other,N
+1080,Swimming,M,33,Unprovoked,unknown,N
+1846,Surfing,M,18,Unprovoked,unknown,N
+76,Swimming,F,51,Unprovoked,tiger shark,N
+1552,Surfing,M,15,Unprovoked,unknown,N
+297,Scuba diving,F,25,Unprovoked,Other,N
+695,Other,M,24,Unprovoked,tiger shark,N
+1145,Other,M,23,Unprovoked,unknown,N
+1708,Wading,M,13,Unprovoked,Other,N
+1503,Spearfishing,M,15,Unprovoked,Other,Y
+746,Standing,F,12,Unprovoked,unknown,N
+88,Fishing,M,34,Provoked,Other,N
+79,Surfing,M,20,Unprovoked,bull shark,N
+574,Snorkeling,F,63,Unprovoked,tiger shark,N
+1624,Other,M,15,Provoked,Other,N
+1341,Spearfishing,M,25,Provoked,white shark,N
+1008,Standing,F,63,Unprovoked,unknown,N
+510,Surfing,F,15,Unprovoked,unknown,N
+1827,Swimming,M,24,Unprovoked,bull shark,Y
+1373,Other,M,21,Unprovoked,unknown,N
+615,Spearfishing,M,15,Provoked,Other,N
+1855,Other,M,16,Unprovoked,Other,N
+1531,Spearfishing,M,21,Unprovoked,white shark,N
+178,Other,M,71,Unprovoked,white shark,N
+1187,Swimming,M,19,Unprovoked,unknown,N
+494,Surfing,M,40,Unprovoked,tiger shark,N
+937,Spearfishing,M,30,Unprovoked,white shark,N
+528,Surfing,F,14,Unprovoked,unknown,N
+508,Swimming,M,37,Unprovoked,unknown,N
+1678,Swimming,M,29,Unprovoked,unknown,Y
+1786,Other,M,23,Sea Disaster,tiger shark,N
+1535,Other,M,15,Unprovoked,Other,Y
+1536,Spearfishing,M,23,Unprovoked,white shark,N
+339,Surfing,M,20,Unprovoked,bull shark,N
+1528,boarding,M,25,Unprovoked,white shark,N
+678,Swimming,M,18,Unprovoked,bull shark,N
+1236,Surfing,M,21,Unprovoked,white shark,N
+1556,Other,M,27,Unprovoked,unknown,N
+114,Swimming,F,38,Unprovoked,Other,N
+126,Swimming,M,44,Unprovoked,tiger shark,N
+1146,Surfing,M,22,Unprovoked,unknown,N
+401,Scuba diving,M,30,Unprovoked,unknown,N
+1254,Spearfishing,M,34,Unprovoked,white shark,N
+138,Wading,F,37,Unprovoked,unknown,N
+402,boarding,M,19,Unprovoked,white shark,Y
+1709,Spearfishing,M,28,Provoked,unknown,N
+137,Other,M,62,Unprovoked,white shark,N
+379,Wading,M,19,Unprovoked,unknown,N
+538,Surfing,M,14,Unprovoked,unknown,N
+1445,Other,M,27,Provoked,grey nurse,N
+1501,Surfing,M,24,Unprovoked,grey nurse,N
+986,Surfing,M,33,Unprovoked,Other,N
+1522,Standing,M,47,Unprovoked,Other,N
+115,boarding,M,71,Unprovoked,unknown,N
+155,boarding,M,32,Unprovoked,white shark,N
+1021,Swimming,F,13,Unprovoked,bronze whaler,N
+1447,Spearfishing,M,28,Unprovoked,Other,N
+153,Spearfishing,F,23,Unprovoked,unknown,N
+1074,Swimming,F,19,Unprovoked,white shark,N
+1109,boarding,M,18,Unprovoked,tiger shark,Y
+1567,Standing,M,24,Unprovoked,unknown,N
+1668,Swimming,M,12,Unprovoked,tiger shark,N
+811,Wading,M,41,Unprovoked,unknown,N
+136,Fishing,M,29,Provoked,Other,N
+1841,Other,M,12,Unprovoked,Other,N
+267,Spearfishing,M,40,Unprovoked,unknown,N
+535,Surfing,M,52,Unprovoked,tiger shark,N
+1833,Swimming,M,18,Unprovoked,unknown,N
+1347,Surfing,M,17,Unprovoked,unknown,N
+1484,Wading,M,8,Unprovoked,Other,N
+602,Other,M,24,Unprovoked,white shark,N
+1235,Surfing,M,23,Unprovoked,unknown,N
+290,Surfing,M,43,Unprovoked,tiger shark,N
+1039,Fishing,M,18,Unprovoked,unknown,N
+202,Surfing,M,29,Unprovoked,blacktip shark,N
+1691,Fishing,M,70,Provoked,Other,N
+1357,Surfing,M,19,Unprovoked,Other,N
+123,Surfing,M,42,Unprovoked,white shark,N
+658,Surfing,M,16,Unprovoked,unknown,N
+735,boarding,M,18,Unprovoked,unknown,N
+199,Surfing,F,34,Unprovoked,tiger shark,N
+802,Surfing,M,50,Unprovoked,unknown,N
+964,Surfing,M,50,Unprovoked,white shark,N
+844,Surfing,M,26,Unprovoked,white shark,N
+1350,Surfing,M,17,Unprovoked,white shark,N
+635,Surfing,M,23,Unprovoked,unknown,N
+1249,Spearfishing,M,39,Provoked,Other,N
+1319,Surfing,M,15,Unprovoked,Other,N
+1298,Spearfishing,M,19,Unprovoked,Other,N
+31,Scuba diving,M,26,Unprovoked,tiger shark,N
+285,Spearfishing,M,68,Unprovoked,tiger shark,Y
+1443,Surfing,M,16,Unprovoked,white shark,N
+407,Swimming,M,27,Unprovoked,unknown,N
+363,Surfing,M,25,Unprovoked,unknown,N
+430,Swimming,M,24,Unprovoked,Other,N
+1675,Other,M,29,Provoked,nurse shark,N
+1071,Spearfishing,M,35,Unprovoked,unknown,N
+277,Surfing,M,16,Unprovoked,unknown,N
+1592,Swimming,M,19,Unprovoked,white shark,Y
+1193,Surfing,M,21,Unprovoked,white shark,N
+1343,Surfing,M,19,Unprovoked,unknown,N
+744,Surfing,M,17,Unprovoked,unknown,N
+730,Surfing,M,22,Unprovoked,Other,N
+1271,Swimming,M,47,Unprovoked,raggedoth shark,N
+1376,Other,M,44,Unprovoked,white shark,N
+1315,Surfing,M,24,Unprovoked,tiger shark,N
+460,Fishing,M,46,Provoked,Other,N
+698,Swimming,F,13,Unprovoked,unknown,N
+778,Swimming,F,60,Unprovoked,unknown,N
+357,Other,M,32,Unprovoked,white shark,Y
+1214,Surfing,M,16,Unprovoked,blacktip shark,N
+1077,Surfing,M,23,Unprovoked,unknown,N
+1738,Surfing,M,31,Unprovoked,Other,N
+1542,Wading,M,28,Unprovoked,unknown,N
+1810,Swimming,M,16,Unprovoked,white shark,Y
+1762,Other,M,48,Provoked,nurse shark,N
+1328,Surfing,M,22,Unprovoked,unknown,N
+1602,Other,M,52,Unprovoked,Other,N
+896,Spearfishing,M,35,Unprovoked,tiger shark,Y
+30,Snorkeling,F,25,Unprovoked,nurse shark,N
+193,Surfing,M,15,Unprovoked,raggedoth shark,N
+814,Wading,F,11,Unprovoked,unknown,N
+173,Surfing,M,18,Unprovoked,unknown,N
+1551,Surfing,M,25,Unprovoked,unknown,N
+1545,Spearfishing,M,16,Provoked,nurse shark,N
+1560,Spearfishing,M,24,Unprovoked,white shark,N
+1138,Snorkeling,M,39,Unprovoked,Other,N
+1727,Swimming,M,40,Unprovoked,unknown,Y
+740,Spearfishing,M,58,Unprovoked,unknown,N
+1329,Surfing,F,13,Unprovoked,tiger shark,N
+1744,Surfing,M,31,Unprovoked,white shark,N
+315,Surfing,M,39,Unprovoked,bull shark,N
+336,Other,M,27,Boating,white shark,N
+1716,Spearfishing,M,35,Unprovoked,unknown,Y
+182,Fishing,M,36,Boating,white shark,N
+1217,Scuba diving,M,47,Unprovoked,white shark,Y
+1839,Standing,M,19,Provoked,grey nurse,N
+622,Surfing,M,21,Unprovoked,tiger shark,N
+564,Scuba diving,M,48,Provoked,Other,N
+1200,Snorkeling,M,38,Unprovoked,bull shark,Y
+514,Swimming,M,37,Unprovoked,white shark,N
+1502,Other,M,32,Unprovoked,unknown,N
+225,Swimming,F,22,Unprovoked,bull shark,N
+794,Other,M,30,Provoked,tiger shark,N
+1360,Other,M,27,Unprovoked,unknown,N
+1061,Surfing,F,34,Unprovoked,unknown,N
+57,Surfing,M,30,Unprovoked,unknown,N
+1722,Spearfishing,M,15,Unprovoked,unknown,Y
+244,boarding,M,19,Unprovoked,tiger shark,Y
+500,Surfing,M,31,Unprovoked,white shark,N
+868,Surfing,M,17,Unprovoked,white shark,Y
+1544,Surfing,M,18,Provoked,unknown,N
+86,Wading,F,10,Unprovoked,Other,N
+1830,Other,M,23,Unprovoked,raggedoth shark,N
+995,Surfing,M,41,Unprovoked,tiger shark,Y
+1211,Other,M,22,Unprovoked,tiger shark,N
+93,Other,F,6,Unprovoked,unknown,N
+1184,Spearfishing,M,45,Unprovoked,tiger shark,N
+817,Surfing,M,31,Unprovoked,Other,N
+1305,Surfing,M,24,Unprovoked,unknown,N
+816,Snorkeling,M,39,Unprovoked,nurse shark,N
+1136,Wading,F,10,Unprovoked,unknown,N
+172,Spearfishing,M,19,Unprovoked,unknown,N
+5,Fishing,M,21,Invalid,Other,N
+985,Surfing,M,18,Unprovoked,Other,N
+828,Swimming,M,28,Unprovoked,white shark,Y
+373,Surfing,M,29,Unprovoked,white shark,N
+1412,Surfing,M,19,Unprovoked,bronze whaler,N
+1645,Other,M,30,Unprovoked,white shark,N
+956,Other,M,26,Unprovoked,unknown,Y
+1704,Spearfishing,M,28,Provoked,unknown,N
+930,Swimming,F,41,Unprovoked,Other,N
+1581,Spearfishing,M,29,Unprovoked,white shark,N
+669,Surfing,M,32,Unprovoked,raggedoth shark,N
+1241,Surfing,M,16,Unprovoked,unknown,N
+105,Spearfishing,M,26,Provoked,Other,N
+1221,Surfing,M,27,Unprovoked,unknown,N
+1442,Other,M,23,Provoked,nurse shark,N
+1627,Fishing,M,41,Provoked,Other,N
+745,Surfing,M,15,Unprovoked,unknown,N
+1530,Other,M,12,Unprovoked,Other,N
+1111,Surfing,M,28,Unprovoked,tiger shark,N
+1281,Other,M,28,Sea Disaster,tiger shark,N
+1155,Surfing,M,43,Unprovoked,tiger shark,N
+799,Surfing,M,22,Unprovoked,bull shark,N
+1223,Wading,F,16,Unprovoked,unknown,N
+1465,Spearfishing,M,26,Provoked,nurse shark,N
+1226,Spearfishing,M,30,Unprovoked,white shark,N
+567,boarding,M,17,Unprovoked,unknown,N
+759,Other,M,11,Unprovoked,unknown,N
+1427,Surfing,M,21,Unprovoked,white shark,N
+1398,Other,M,10,Sea Disaster,Other,Y
+613,Surfing,M,40,Unprovoked,white shark,N
+201,Standing,F,7,Unprovoked,bull shark,N
+1446,Surfing,M,17,Unprovoked,white shark,N
+240,Surfing,M,19,Unprovoked,white shark,N
+843,Swimming,M,11,Unprovoked,unknown,N
+206,Other,F,36,Unprovoked,blacktip shark,N
+371,Swimming,M,30,Unprovoked,bull shark,Y
+87,Fishing,M,59,Provoked,Other,N
+1778,Other,M,20,Unprovoked,white shark,Y
+1796,Swimming,M,27,Unprovoked,tiger shark,N
+364,Surfing,M,30,Unprovoked,tiger shark,N
+764,Scuba diving,M,44,Unprovoked,white shark,N
+1617,Other,M,27,Provoked,wobbegong shark,N
+551,Other,F,12,Unprovoked,unknown,N
+53,Surfing,F,13,Unprovoked,white shark,N
+1025,Standing,F,15,Unprovoked,unknown,N
+117,Scuba diving,M,32,Unprovoked,tiger shark,N
+1244,boarding,M,33,Unprovoked,unknown,N
+751,Swimming,M,20,Unprovoked,Other,N
+1371,Surfing,M,18,Unprovoked,unknown,N
+1650,Spearfishing,M,25,Unprovoked,Other,N
+1323,Spearfishing,M,22,Unprovoked,white shark,N
+1558,Spearfishing,M,16,Unprovoked,white shark,Y
+1436,Wading,F,8,Unprovoked,Other,N
+176,Wading,M,63,Unprovoked,Other,N
+268,Surfing,M,18,Unprovoked,tiger shark,N
+1369,Standing,M,20,Unprovoked,unknown,N
+334,Surfing,M,28,Unprovoked,unknown,N
+860,Other,M,28,Unprovoked,tiger shark,N
+314,Other,M,56,Unprovoked,Other,N
+1518,Other,M,19,Unprovoked,unknown,N
+1731,Other,M,21,Unprovoked,unknown,Y
+1411,Swimming,M,25,Unprovoked,unknown,N
+33,Spearfishing,M,25,Unprovoked,white shark,N
+591,Surfing,M,10,Unprovoked,unknown,N
+328,Other,M,30,Unprovoked,white shark,N
+1067,Surfing,M,31,Unprovoked,white shark,N
+281,Surfing,M,21,Unprovoked,bull shark,N
+704,Surfing,M,45,Unprovoked,white shark,N
+1022,Swimming,M,53,Unprovoked,tiger shark,N
+1483,Other,M,21,Unprovoked,unknown,N
+260,Surfing,M,43,Provoked,unknown,N
+1057,Swimming,M,14,Unprovoked,tiger shark,Y
+151,Surfing,M,34,Unprovoked,white shark,N
+748,Swimming,M,51,Unprovoked,unknown,N
+6,Other,F,34,Provoked,Other,N
+1472,Spearfishing,M,29,Provoked,grey nurse,N
+1142,boarding,M,13,Unprovoked,unknown,N
+598,Swimming,M,55,Unprovoked,Other,N
+112,Wading,M,11,Unprovoked,blacktip shark,N
+184,Standing,M,58,Unprovoked,tiger shark,N
+1012,Surfing,M,27,Unprovoked,blacktip shark,N
+233,Swimming,F,63,Unprovoked,white shark,Y
+1237,Swimming,M,46,Unprovoked,raggedoth shark,N
+1397,Swimming,M,17,Unprovoked,Other,Y
+975,Surfing,M,29,Unprovoked,white shark,N
+929,Surfing,M,21,Unprovoked,tiger shark,N
+1429,Swimming,M,16,Unprovoked,unknown,N
+48,Fishing,M,34,Provoked,unknown,N
+1622,Swimming,M,41,Unprovoked,unknown,N
+1801,Swimming,M,25,Unprovoked,tiger shark,Y
+1671,Other,M,20,Provoked,nurse shark,N
+915,Fishing,M,23,Unprovoked,unknown,N
+216,Surfing,M,20,Unprovoked,white shark,N
+1122,Surfing,M,17,Unprovoked,bronze whaler,N
+1882,Spearfishing,M,27,Unprovoked,unknown,N
+692,boarding,M,15,Unprovoked,unknown,N
+1027,Surfing,M,14,Unprovoked,unknown,N
+160,Surfing,M,23,Unprovoked,white shark,N
+511,Swimming,M,14,Unprovoked,bull shark,N
+519,Swimming,M,66,Unprovoked,white shark,Y
+674,Wading,F,70,Unprovoked,blacktip shark,N
+1481,Other,F,9,Unprovoked,Other,Y
+1229,Spearfishing,M,27,Unprovoked,white shark,N
+1753,Fishing,M,16,Provoked,Other,N
+1054,Scuba diving,M,47,Unprovoked,white shark,Y
+426,Wading,F,10,Unprovoked,unknown,N
+1653,Spearfishing,M,23,Provoked,white shark,N
+1802,Swimming,M,18,Unprovoked,tiger shark,Y
+204,Surfing,M,28,Unprovoked,unknown,N
+1370,Standing,M,33,Unprovoked,Other,N
+1754,Other,F,22,Unprovoked,Other,N
+558,Other,M,20,Unprovoked,bull shark,N
+1280,Swimming,M,24,Sea Disaster,tiger shark,Y
+1583,Spearfishing,M,24,Unprovoked,white shark,N
+1579,Other,M,18,Unprovoked,unknown,N
+1011,Surfing,M,22,Unprovoked,unknown,N
+1620,Swimming,M,25,Unprovoked,white shark,Y
+1860,Swimming,M,18,Unprovoked,white shark,N
+663,Swimming,F,14,Unprovoked,bull shark,Y
+1191,boarding,M,10,Unprovoked,Other,N
+609,Spearfishing,M,35,Unprovoked,Other,N
+1157,Spearfishing,M,26,Unprovoked,white shark,N
+1395,Surfing,M,24,Unprovoked,white shark,N
+1035,Surfing,M,18,Unprovoked,unknown,N
+1108,Scuba diving,M,40,Unprovoked,unknown,N
+189,Other,M,57,Boating,bull shark,N
+706,Swimming,M,8,Unprovoked,unknown,N
+813,boarding,M,17,Unprovoked,tiger shark,N
+631,Other,M,49,Unprovoked,unknown,N
+1831,Other,M,45,Unprovoked,unknown,N
+1515,Other,M,25,Provoked,white shark,N
+1313,Surfing,M,27,Unprovoked,raggedoth shark,N
+51,Swimming,M,46,Unprovoked,bull shark,N
+399,Snorkeling,F,48,Unprovoked,Other,N
+1040,Wading,M,20,Unprovoked,unknown,N
+1091,Surfing,M,28,Unprovoked,white shark,N
+1840,Other,M,9,Unprovoked,Other,N
+1272,Surfing,M,15,Unprovoked,tiger shark,N
+616,Snorkeling,M,46,Provoked,wobbegong shark,N
+820,Fishing,M,16,Unprovoked,Other,N
+1875,Fishing,M,21,Provoked,unknown,N
+1885,Swimming,M,16,Unprovoked,bull shark,N
+1038,Surfing,M,19,Unprovoked,unknown,N
+1490,Other,M,38,Sea Disaster,Other,Y
+135,boarding,F,50,Unprovoked,white shark,N
+380,Surfing,M,33,Unprovoked,white shark,N
+1700,Other,M,15,Unprovoked,unknown,Y
+1168,Spearfishing,M,29,Unprovoked,white shark,Y
+1339,Surfing,M,20,Unprovoked,white shark,N
+1310,Swimming,F,16,Unprovoked,Other,N
+755,Surfing,M,17,Unprovoked,unknown,N
+739,Other,M,16,Unprovoked,white shark,N
+67,Scuba diving,M,55,Unprovoked,bull shark,N
+1817,Other,M,38,Provoked,Other,N
+1883,Other,M,36,Unprovoked,Other,N
+1857,Other,M,19,Unprovoked,Other,Y
+479,Swimming,M,25,Unprovoked,tiger shark,Y
+546,Surfing,M,16,Unprovoked,blacktip shark,N
+1779,Fishing,M,18,Boating,white shark,N
+1537,Spearfishing,M,22,Unprovoked,tiger shark,Y
+65,Other,M,58,Unprovoked,Other,N
+1710,Spearfishing,M,19,Unprovoked,white shark,N
+627,Other,M,57,Boating,unknown,N
+1100,Surfing,M,29,Unprovoked,white shark,N
+1132,Surfing,M,32,Unprovoked,white shark,N
+1172,Other,M,29,Unprovoked,white shark,N
+1340,Scuba diving,M,18,Unprovoked,unknown,N
+1724,Fishing,M,25,Unprovoked,unknown,N
+999,Surfing,M,31,Unprovoked,white shark,N
+1600,Fishing,M,19,Provoked,unknown,N
+1582,Surfing,M,19,Unprovoked,bronze whaler,N
+548,Spearfishing,F,48,Unprovoked,Other,N
+355,Surfing,M,27,Unprovoked,white shark,N
+928,Surfing,M,22,Unprovoked,unknown,Y
+720,Surfing,M,15,Unprovoked,Other,N
+981,Surfing,M,25,Unprovoked,white shark,Y
+1352,Spearfishing,M,27,Provoked,bull shark,N
+1451,Other,M,25,Unprovoked,white shark,N
+1815,Other,M,38,Unprovoked,unknown,Y
+245,Surfing,M,35,Unprovoked,unknown,Y
+618,Surfing,M,15,Unprovoked,bronze whaler,N
+1549,Fishing,M,30,Provoked,unknown,N
+130,Surfing,M,22,Unprovoked,blacktip shark,N
+382,boarding,M,15,Unprovoked,tiger shark,Y
+1239,Surfing,M,29,Unprovoked,bronze whaler,N
+703,Wading,M,7,Unprovoked,unknown,N
+767,Swimming,M,24,Unprovoked,unknown,N
+1406,Spearfishing,M,11,Unprovoked,bull shark,N
+440,Spearfishing,M,18,Unprovoked,bull shark,N
+540,Surfing,M,42,Unprovoked,unknown,N
+1768,Other,M,18,Unprovoked,unknown,N
+909,Surfing,M,16,Unprovoked,tiger shark,N
+596,Surfing,M,22,Unprovoked,white shark,N
+362,Spearfishing,M,21,Unprovoked,bull shark,N
+779,Swimming,M,36,Unprovoked,bull shark,Y
+369,Swimming,M,25,Unprovoked,unknown,N
+742,Surfing,M,21,Unprovoked,unknown,N
+203,Surfing,M,15,Unprovoked,blacktip shark,N
+827,Other,M,42,Invalid,unknown,Y
+1062,Wading,F,9,Provoked,unknown,N
+1002,Spearfishing,M,29,Provoked,white shark,N
+1140,Surfing,M,30,Unprovoked,tiger shark,N
+846,Surfing,M,12,Unprovoked,blacktip shark,N
+1135,Swimming,M,23,Unprovoked,Other,N
+97,Surfing,M,29,Unprovoked,white shark,Y
+886,Other,F,12,Unprovoked,tiger shark,N
+1031,Other,M,29,Unprovoked,white shark,Y
+940,Surfing,M,14,Unprovoked,unknown,N
+679,Swimming,M,19,Unprovoked,unknown,N
+42,Surfing,M,18,Unprovoked,unknown,N
+493,Swimming,M,32,Unprovoked,Other,N
+1084,Other,F,34,Boating,white shark,N
+1198,Wading,F,23,Unprovoked,unknown,N
+712,Surfing,M,28,Unprovoked,Other,N
+1790,Other,M,25,Unprovoked,white shark,Y
+1283,Other,M,21,Unprovoked,unknown,N
+1252,Swimming,M,15,Unprovoked,raggedoth shark,N
+1251,Scuba diving,M,29,Unprovoked,white shark,N
+978,Wading,F,10,Unprovoked,unknown,N
+1808,Other,M,18,Provoked,grey nurse,N
+955,Surfing,M,10,Unprovoked,raggedoth shark,N
+1220,Surfing,M,40,Unprovoked,white shark,N
+1167,Surfing,M,32,Unprovoked,white shark,N
+789,boarding,M,20,Unprovoked,unknown,N
+659,Scuba diving,M,24,Provoked,unknown,N
+377,Scuba diving,M,28,Unprovoked,blacktip shark,N
+389,Fishing,M,36,Provoked,bull shark,N
+1279,Swimming,F,21,Sea Disaster,tiger shark,Y
+517,Surfing,M,18,Unprovoked,unknown,N
+845,Surfing,M,45,Unprovoked,unknown,N
+1363,Spearfishing,M,23,Unprovoked,unknown,N
+760,Surfing,M,12,Unprovoked,unknown,N
+181,Spearfishing,M,70,Unprovoked,bull shark,N
+901,Other,F,12,Unprovoked,Other,N
+1402,Surfing,M,21,Unprovoked,unknown,N
+1647,Other,M,30,Sea Disaster,Other,N
+812,Swimming,M,29,Unprovoked,unknown,N
+1479,Other,M,14,Provoked,nurse shark,N
+1596,Spearfishing,M,22,Unprovoked,blacktip shark,N
+1203,Other,M,35,Unprovoked,Other,N
+1419,Other,F,30,Unprovoked,Other,N
+158,Swimming,M,18,Unprovoked,bull shark,N
+1699,Swimming,M,26,Unprovoked,Other,Y
+652,Wading,F,18,Unprovoked,bull shark,N
+854,Surfing,M,40,Unprovoked,bronze whaler,N
+1546,Spearfishing,M,26,Unprovoked,tiger shark,N
+1585,Fishing,M,57,Unprovoked,unknown,N
+1461,Other,M,24,Provoked,Other,N
+775,Snorkeling,F,41,Unprovoked,Other,N
+784,Fishing,M,55,Unprovoked,blacktip shark,N
+200,Surfing,F,13,Unprovoked,unknown,N
+1314,Surfing,M,19,Unprovoked,raggedoth shark,N
+718,Surfing,M,51,Unprovoked,tiger shark,N
+489,Fishing,M,50,Provoked,Other,N
+1737,Other,M,23,Provoked,wobbegong shark,N
+1311,Surfing,M,32,Unprovoked,Other,N
+651,Surfing,F,68,Unprovoked,unknown,N
+626,Swimming,F,24,Unprovoked,tiger shark,Y
+1415,Other,M,32,Unprovoked,white shark,N
+1561,Wading,M,32,Unprovoked,unknown,Y
+1534,Other,M,13,Provoked,Other,N
+1869,Other,M,30,Unprovoked,unknown,Y
+1,Swimming,M,18,Unprovoked,tiger shark,Y
+825,Surfing,M,26,Unprovoked,tiger shark,N
+1218,Surfing,M,24,Unprovoked,white shark,N
+895,Surfing,M,37,Unprovoked,unknown,N
+1426,Scuba diving,M,26,Provoked,grey nurse,N
+159,boarding,M,19,Unprovoked,white shark,N
+781,Surfing,M,35,Unprovoked,unknown,N
+94,Standing,M,19,Unprovoked,unknown,N
+1232,Surfing,M,28,Unprovoked,bull shark,N
+1532,Standing,F,20,Unprovoked,Other,N
+433,Surfing,M,46,Unprovoked,wobbegong shark,N
+1735,Swimming,F,16,Unprovoked,white shark,Y
+1073,Surfing,M,22,Unprovoked,unknown,N
+776,Surfing,M,21,Unprovoked,unknown,N
+307,boarding,M,11,Unprovoked,unknown,N
+962,boarding,M,22,Unprovoked,white shark,N
+1572,Other,M,11,Unprovoked,unknown,N
+1612,Other,M,33,Unprovoked,Other,N
+1692,Other,M,29,Unprovoked,white shark,N
+179,Other,M,48,Unprovoked,Other,N
+516,Surfing,M,24,Unprovoked,tiger shark,Y
+1126,Swimming,M,19,Unprovoked,Other,N
+1032,Other,M,32,Unprovoked,white shark,N
+681,Other,M,18,Unprovoked,white shark,Y
+1049,Swimming,F,45,Unprovoked,Other,Y
+769,Snorkeling,F,18,Unprovoked,unknown,N
+576,Other,F,20,Provoked,Other,N
+1452,Spearfishing,M,33,Unprovoked,unknown,N
+1107,Scuba diving,M,30,Unprovoked,Other,N
+1130,boarding,M,14,Unprovoked,unknown,N
+972,Surfing,M,19,Unprovoked,tiger shark,N
+1009,Surfing,M,17,Unprovoked,white shark,N
+132,Spearfishing,M,27,Unprovoked,tiger shark,N
+1381,Swimming,F,14,Unprovoked,unknown,N
+383,Spearfishing,M,32,Unprovoked,bull shark,N
+1382,Spearfishing,M,29,Provoked,Other,N
+1553,Spearfishing,M,18,Unprovoked,bronze whaler,N
+291,Surfing,M,23,Unprovoked,unknown,N
+1421,Swimming,F,16,Unprovoked,white shark,N
+1141,Surfing,M,32,Unprovoked,white shark,N
+838,boarding,M,18,Unprovoked,unknown,N
+723,Surfing,M,21,Unprovoked,Other,N
+790,Wading,M,36,Provoked,Other,N
+1417,Swimming,M,25,Unprovoked,unknown,Y
+16,boarding,M,25,Unprovoked,tiger shark,N
+1872,Swimming,M,15,Unprovoked,unknown,Y
+1538,Other,M,20,Unprovoked,Other,N
+1566,Fishing,M,40,Unprovoked,unknown,Y
+684,Other,M,16,Unprovoked,raggedoth shark,N
+1703,Swimming,M,8,Unprovoked,wobbegong shark,N
+435,boarding,F,14,Provoked,unknown,N
+818,Other,M,35,Boating,Other,N
+488,Spearfishing,M,24,Unprovoked,Other,N
+1288,Surfing,M,26,Unprovoked,unknown,N
+541,Surfing,M,37,Unprovoked,white shark,N
+584,Swimming,F,59,Unprovoked,unknown,N
+990,Spearfishing,M,54,Unprovoked,Other,N
+419,boarding,M,48,Unprovoked,unknown,N
+190,Fishing,M,20,Provoked,unknown,N
+1321,Other,M,27,Unprovoked,tiger shark,N
+824,Snorkeling,F,20,Unprovoked,bronze whaler,N
+890,Surfing,M,17,Unprovoked,blacktip shark,N
+246,Surfing,M,25,Unprovoked,white shark,N
+74,Surfing,M,36,Unprovoked,unknown,N
+474,Surfing,M,15,Unprovoked,unknown,N
+1569,Standing,M,21,Unprovoked,unknown,N
+597,Other,M,18,Unprovoked,unknown,N
+1494,Spearfishing,M,30,Unprovoked,wobbegong shark,N
+1459,Standing,M,19,Unprovoked,blacktip shark,N
+1626,Fishing,M,46,Unprovoked,unknown,N
+1853,Swimming,M,15,Unprovoked,white shark,N
+410,Surfing,M,35,Unprovoked,unknown,N
+1879,Standing,M,35,Unprovoked,Other,Y
+96,Swimming,M,23,Unprovoked,Other,N
+629,Swimming,F,21,Unprovoked,bull shark,Y
+250,Surfing,M,41,Unprovoked,wobbegong shark,N
+187,Surfing,M,41,Unprovoked,unknown,Y
+939,Swimming,M,9,Unprovoked,tiger shark,Y

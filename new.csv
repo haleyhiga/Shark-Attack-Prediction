@@ -1,0 +1,1888 @@
+Activity,Sex,Age,Type,Species,Fatal
+Other,F,57,Boating,white shark,N
+Swimming,M,18,Unprovoked,tiger shark,Y
+Fishing,M,52,Unprovoked,Other,N
+Other,M,15,Unprovoked,bull shark,N
+Other,M,32,Provoked,Other,N
+Fishing,M,21,Invalid,Other,N
+Other,F,34,Provoked,Other,N
+Scuba diving,M,30,Unprovoked,tiger shark,N
+Surfing,M,60,Unprovoked,unknown,N
+Fishing,M,32,Unprovoked,tiger shark,N
+Other,M,33,Unprovoked,white shark,N
+boarding,M,29,Unprovoked,unknown,N
+Swimming,M,54,Unprovoked,Other,N
+Fishing,M,56,Invalid,unknown,N
+Swimming,M,12,Unprovoked,bull shark,N
+Surfing,M,19,Unprovoked,white shark,N
+boarding,M,25,Unprovoked,tiger shark,N
+Wading,M,10,Unprovoked,wobbegong shark,N
+Swimming,M,69,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Scuba diving,M,38,Unprovoked,blacktip shark,N
+Swimming,F,55,Unprovoked,white shark,N
+Other,M,35,Unprovoked,bull shark,N
+Other,F,46,Invalid,Other,N
+Snorkeling,M,45,Unprovoked,Other,N
+Spearfishing,M,14,Invalid,unknown,N
+Other,M,28,Unprovoked,white shark,N
+Surfing,M,20,Unprovoked,unknown,N
+Surfing,F,54,Unprovoked,tiger shark,N
+Wading,M,24,Provoked,Other,N
+Snorkeling,F,25,Unprovoked,nurse shark,N
+Scuba diving,M,26,Unprovoked,tiger shark,N
+Scuba diving,F,49,Unprovoked,tiger shark,Y
+Spearfishing,M,25,Unprovoked,white shark,N
+Surfing,M,25,Unprovoked,unknown,N
+Other,M,22,Unprovoked,tiger shark,Y
+Snorkeling,M,7,Unprovoked,Other,N
+Surfing,M,31,Unprovoked,wobbegong shark,N
+Fishing,F,15,Unprovoked,white shark,N
+Surfing,M,54,Unprovoked,tiger shark,N
+Snorkeling,F,40,Unprovoked,unknown,N
+Surfing,M,13,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Surfing,M,35,Unprovoked,white shark,N
+Surfing,M,37,Unprovoked,white shark,N
+Other,M,69,Unprovoked,white shark,N
+Swimming,M,13,Unprovoked,blacktip shark,N
+Snorkeling,F,20,Unprovoked,Other,N
+Fishing,M,34,Provoked,unknown,N
+Other,M,40,Boating,white shark,N
+Other,M,50,Unprovoked,white shark,N
+Swimming,M,46,Unprovoked,bull shark,N
+Fishing,M,32,Provoked,tiger shark,N
+Surfing,F,13,Unprovoked,white shark,N
+Swimming,F,14,Unprovoked,bull shark,N
+boarding,M,34,Unprovoked,bull shark,N
+boarding,M,48,Unprovoked,white shark,N
+Surfing,M,30,Unprovoked,unknown,N
+Snorkeling,F,32,Unprovoked,tiger shark,N
+Other,F,20,Provoked,unknown,N
+Other,M,29,Provoked,unknown,N
+Surfing,F,17,Unprovoked,white shark,Y
+Surfing,M,28,Unprovoked,tiger shark,N
+Swimming,F,17,Unprovoked,bull shark,N
+Spearfishing,M,25,Unprovoked,unknown,N
+Other,M,58,Unprovoked,Other,N
+Scuba diving,M,37,Unprovoked,Other,N
+Scuba diving,M,55,Unprovoked,bull shark,N
+Surfing,M,48,Unprovoked,bull shark,N
+Other,M,55,Unprovoked,white shark,N
+Fishing,M,20,Provoked,wobbegong shark,N
+Surfing,M,65,Unprovoked,white shark,N
+Fishing,M,73,Provoked,Other,N
+Other,F,58,Unprovoked,tiger shark,N
+Surfing,M,36,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,white shark,N
+Swimming,F,51,Unprovoked,tiger shark,N
+Spearfishing,M,22,Unprovoked,white shark,N
+Surfing,M,25,Unprovoked,bull shark,N
+Surfing,M,20,Unprovoked,bull shark,N
+boarding,M,21,Unprovoked,tiger shark,N
+Surfing,M,22,Unprovoked,blacktip shark,N
+Swimming,M,40,Unprovoked,Other,N
+Other,M,43,Provoked,nurse shark,N
+Fishing,M,31,Provoked,Other,N
+Surfing,M,61,Unprovoked,white shark,N
+Wading,F,10,Unprovoked,Other,N
+Fishing,M,59,Provoked,Other,N
+Fishing,M,34,Provoked,Other,N
+Scuba diving,M,59,Unprovoked,Other,N
+Spearfishing,M,43,Unprovoked,white shark,N
+Other,M,42,Unprovoked,unknown,N
+Spearfishing,M,19,Provoked,unknown,N
+Other,F,6,Unprovoked,unknown,N
+Standing,M,19,Unprovoked,unknown,N
+Other,F,60,Unprovoked,unknown,Y
+Swimming,M,23,Unprovoked,Other,N
+Surfing,M,29,Unprovoked,white shark,Y
+Swimming,M,13,Unprovoked,unknown,N
+Swimming,F,22,Unprovoked,bull shark,N
+Swimming,M,48,Unprovoked,blacktip shark,N
+Other,F,23,Provoked,nurse shark,N
+Fishing,M,39,Provoked,Other,N
+Surfing,M,24,Unprovoked,bull shark,N
+Swimming,M,12,Unprovoked,wobbegong shark,N
+Spearfishing,M,26,Provoked,Other,N
+Spearfishing,M,26,Unprovoked,bull shark,N
+Other,F,69,Unprovoked,tiger shark,Y
+Fishing,M,34,Unprovoked,unknown,N
+Swimming,M,41,Unprovoked,tiger shark,N
+Swimming,M,41,Unprovoked,tiger shark,N
+boarding,M,48,Unprovoked,tiger shark,N
+Wading,M,11,Unprovoked,blacktip shark,N
+Spearfishing,M,31,Unprovoked,unknown,N
+Swimming,F,38,Unprovoked,Other,N
+boarding,M,71,Unprovoked,unknown,N
+Surfing,M,43,Unprovoked,bronze whaler,N
+Scuba diving,M,32,Unprovoked,tiger shark,N
+Fishing,M,26,Unprovoked,bull shark,N
+Snorkeling,M,55,Unprovoked,Other,N
+Surfing,M,28,Unprovoked,Other,N
+Surfing,M,20,Unprovoked,bull shark,N
+Wading,F,28,Unprovoked,unknown,N
+Surfing,M,42,Unprovoked,white shark,N
+Surfing,M,21,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,Other,N
+Swimming,M,44,Unprovoked,tiger shark,N
+Surfing,M,25,Unprovoked,tiger shark,N
+Wading,M,13,Unprovoked,unknown,N
+Surfing,M,14,Unprovoked,blacktip shark,N
+Surfing,M,22,Unprovoked,blacktip shark,N
+Surfing,M,14,Unprovoked,Other,N
+Spearfishing,M,27,Unprovoked,tiger shark,N
+Wading,M,12,Unprovoked,unknown,N
+Surfing,M,42,Unprovoked,unknown,N
+boarding,F,50,Unprovoked,white shark,N
+Fishing,M,29,Provoked,Other,N
+Other,M,62,Unprovoked,white shark,N
+Wading,F,37,Unprovoked,unknown,N
+Surfing,F,54,Unprovoked,white shark,N
+Surfing,M,21,Unprovoked,white shark,N
+Surfing,M,15,Unprovoked,unknown,N
+Other,F,10,Unprovoked,unknown,N
+Fishing,M,22,Boating,white shark,N
+Spearfishing,M,57,Provoked,Other,N
+Surfing,M,52,Unprovoked,white shark,N
+Surfing,M,25,Unprovoked,blacktip shark,N
+Other,M,46,Unprovoked,white shark,Y
+Fishing,M,31,Provoked,Other,N
+Surfing,M,40,Unprovoked,bronze whaler,N
+Surfing,M,45,Unprovoked,bull shark,N
+Surfing,M,34,Unprovoked,white shark,N
+Surfing,M,38,Unprovoked,white shark,N
+Spearfishing,F,23,Unprovoked,unknown,N
+Surfing,M,52,Unprovoked,white shark,N
+boarding,M,32,Unprovoked,white shark,N
+Swimming,M,68,Unprovoked,unknown,N
+Other,M,12,Unprovoked,unknown,N
+Swimming,M,18,Unprovoked,bull shark,N
+boarding,M,19,Unprovoked,white shark,N
+Surfing,M,23,Unprovoked,white shark,N
+Standing,M,43,Unprovoked,unknown,N
+Swimming,M,19,Provoked,wobbegong shark,N
+Swimming,M,6,Unprovoked,tiger shark,N
+Surfing,F,37,Invalid,white shark,N
+Standing,M,9,Unprovoked,unknown,N
+Wading,M,16,Unprovoked,bull shark,N
+Wading,F,12,Unprovoked,bull shark,N
+boarding,F,13,Unprovoked,unknown,N
+Other,M,11,Unprovoked,bull shark,N
+Other,F,17,Unprovoked,nurse shark,N
+Surfing,M,47,Unprovoked,bull shark,N
+Spearfishing,M,19,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Snorkeling,M,50,Unprovoked,bull shark,Y
+Other,M,29,Unprovoked,white shark,N
+Wading,M,63,Unprovoked,Other,N
+Surfing,M,26,Unprovoked,white shark,N
+Other,M,71,Unprovoked,white shark,N
+Other,M,48,Unprovoked,Other,N
+Surfing,M,13,Unprovoked,bull shark,Y
+Spearfishing,M,70,Unprovoked,bull shark,N
+Fishing,M,36,Boating,white shark,N
+Swimming,M,52,Unprovoked,Other,Y
+Standing,M,58,Unprovoked,tiger shark,N
+Other,M,9,Unprovoked,blacktip shark,N
+Swimming,F,22,Unprovoked,tiger shark,Y
+Surfing,M,41,Unprovoked,unknown,Y
+Surfing,M,35,Unprovoked,unknown,N
+Other,M,57,Boating,bull shark,N
+Fishing,M,20,Provoked,unknown,N
+Other,M,17,Unprovoked,unknown,N
+Snorkeling,F,34,Unprovoked,white shark,N
+Surfing,M,15,Unprovoked,raggedoth shark,N
+Spearfishing,M,17,Unprovoked,white shark,Y
+Surfing,M,50,Unprovoked,white shark,N
+Spearfishing,M,17,Unprovoked,tiger shark,Y
+Surfing,M,44,Unprovoked,unknown,N
+Snorkeling,M,53,Unprovoked,unknown,N
+Surfing,F,34,Unprovoked,tiger shark,N
+Surfing,F,13,Unprovoked,unknown,N
+Standing,F,7,Unprovoked,bull shark,N
+Surfing,M,29,Unprovoked,blacktip shark,N
+Surfing,M,15,Unprovoked,blacktip shark,N
+Surfing,M,28,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,white shark,N
+Other,F,36,Unprovoked,blacktip shark,N
+Swimming,M,50,Unprovoked,unknown,Y
+Fishing,M,43,Unprovoked,bull shark,N
+Fishing,M,52,Provoked,unknown,N
+Surfing,F,13,Unprovoked,Other,N
+Surfing,M,17,Unprovoked,Other,N
+Surfing,M,29,Unprovoked,unknown,N
+Spearfishing,M,31,Unprovoked,Other,N
+Swimming,M,7,Unprovoked,bull shark,N
+boarding,M,10,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,white shark,N
+Surfing,M,51,Unprovoked,Other,N
+Swimming,M,61,Unprovoked,unknown,N
+Swimming,M,39,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,unknown,N
+Other,M,48,Boat,Other,N
+Spearfishing,M,42,Unprovoked,Other,N
+Standing,M,16,Unprovoked,Other,N
+boarding,M,39,Unprovoked,bronze whaler,N
+Swimming,F,22,Unprovoked,bull shark,N
+Other,F,37,Unprovoked,Other,N
+Other,F,29,Unprovoked,bull shark,N
+Other,M,10,Provoked,Other,N
+Surfing,M,35,Unprovoked,white shark,N
+Surfing,M,12,Unprovoked,unknown,N
+Swimming,F,40,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,unknown,N
+Swimming,F,63,Unprovoked,white shark,Y
+Swimming,M,66,Unprovoked,unknown,Y
+Surfing,M,21,Unprovoked,blacktip shark,N
+Surfing,M,21,Unprovoked,Other,N
+Surfing,M,28,Unprovoked,Other,N
+Spearfishing,M,24,Unprovoked,Other,N
+Snorkeling,M,37,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,white shark,N
+boarding,M,29,Unprovoked,tiger shark,N
+Surfing,M,30,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,wobbegong shark,N
+boarding,M,19,Unprovoked,tiger shark,Y
+Surfing,M,35,Unprovoked,unknown,Y
+Surfing,M,25,Unprovoked,white shark,N
+boarding,M,46,Unprovoked,tiger shark,N
+Snorkeling,F,60,Unprovoked,Other,N
+boarding,M,24,Unprovoked,unknown,N
+Surfing,M,41,Unprovoked,wobbegong shark,N
+Other,M,45,Unprovoked,Other,N
+Surfing,M,25,Unprovoked,tiger shark,N
+Wading,M,6,Unprovoked,nurse shark,N
+Swimming,M,74,Unprovoked,white shark,Y
+Other,M,55,Unprovoked,white shark,N
+Surfing,M,45,Unprovoked,white shark,N
+Wading,M,12,Unprovoked,bull shark,N
+Swimming,M,21,Unprovoked,bull shark,N
+Surfing,F,13,Unprovoked,unknown,N
+Surfing,M,43,Provoked,unknown,N
+Standing,M,25,Unprovoked,unknown,N
+Other,M,9,Unprovoked,unknown,N
+Fishing,M,50,Provoked,Other,N
+Snorkeling,F,20,Unprovoked,tiger shark,Y
+Surfing,M,10,Unprovoked,bull shark,N
+Fishing,M,17,Unprovoked,bull shark,N
+Spearfishing,M,40,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,tiger shark,N
+Other,M,64,Unprovoked,nurse shark,N
+Swimming,M,14,Unprovoked,unknown,N
+Swimming,M,28,Unprovoked,tiger shark,N
+boarding,F,10,Unprovoked,unknown,N
+Fishing,M,58,Provoked,Other,N
+Other,M,32,Unprovoked,Other,N
+Surfing,M,29,Unprovoked,Other,N
+boarding,M,36,Unprovoked,bull shark,Y
+Surfing,M,16,Unprovoked,unknown,N
+Swimming,F,34,Unprovoked,tiger shark,N
+Fishing,M,51,Unprovoked,grey nurse,N
+Other,M,9,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,bull shark,N
+boarding,M,53,Unprovoked,Other,N
+Surfing,M,58,Unprovoked,unknown,N
+Fishing,M,30,Provoked,raggedoth shark,N
+Spearfishing,M,68,Unprovoked,tiger shark,Y
+Spearfishing,M,28,Unprovoked,bronze whaler,N
+Swimming,M,46,Unprovoked,white shark,Y
+Surfing,M,16,Unprovoked,blacktip shark,N
+Scuba diving,M,48,Unprovoked,Other,N
+Surfing,M,43,Unprovoked,tiger shark,N
+Surfing,M,23,Unprovoked,unknown,N
+boarding,M,29,Unprovoked,bull shark,N
+Swimming,M,20,Unprovoked,tiger shark,Y
+Surfing,M,32,Unprovoked,tiger shark,N
+Surfing,M,60,Unprovoked,unknown,N
+Spearfishing,M,31,Unprovoked,tiger shark,N
+Scuba diving,F,25,Unprovoked,Other,N
+Snorkeling,M,61,Unprovoked,tiger shark,N
+Swimming,M,32,Unprovoked,unknown,Y
+Surfing,M,14,Unprovoked,unknown,N
+Other,M,30,Unprovoked,tiger shark,N
+Surfing,M,43,Unprovoked,tiger shark,N
+Surfing,M,25,Unprovoked,white shark,N
+Swimming,F,51,Unprovoked,tiger shark,N
+Surfing,M,39,Unprovoked,white shark,Y
+boarding,M,55,Unprovoked,unknown,N
+boarding,M,11,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Surfing,M,22,Unprovoked,unknown,N
+Swimming,F,29,Unprovoked,bull shark,N
+boarding,F,8,Unprovoked,unknown,N
+Swimming,F,56,Unprovoked,unknown,N
+Fishing,M,53,Provoked,unknown,N
+Other,M,56,Unprovoked,Other,N
+Surfing,M,39,Unprovoked,bull shark,N
+Surfing,M,48,Unprovoked,white shark,N
+Surfing,M,50,Unprovoked,unknown,N
+Surfing,M,24,Unprovoked,white shark,Y
+Other,M,52,Boating,unknown,N
+Surfing,M,29,Unprovoked,unknown,N
+Swimming,M,6,Unprovoked,bull shark,N
+Other,F,16,Unprovoked,Other,N
+Other,M,62,Unprovoked,unknown,N
+Fishing,M,23,Provoked,nurse shark,N
+Swimming,F,18,Unprovoked,blacktip shark,N
+Swimming,M,16,Unprovoked,blacktip shark,N
+Surfing,M,42,Unprovoked,unknown,N
+Other,M,30,Unprovoked,white shark,N
+Wading,F,33,Unprovoked,unknown,N
+Spearfishing,M,46,Unprovoked,bull shark,N
+Surfing,M,22,Unprovoked,unknown,N
+Fishing,M,30,Boating,white shark,N
+boarding,F,15,Unprovoked,white shark,N
+Surfing,M,28,Unprovoked,unknown,N
+boarding,M,20,Unprovoked,white shark,Y
+Other,M,27,Boating,white shark,N
+Surfing,M,28,Unprovoked,tiger shark,N
+Scuba diving,M,33,Unprovoked,white shark,Y
+Surfing,M,20,Unprovoked,bull shark,N
+Surfing,M,61,Unprovoked,bull shark,N
+Surfing,F,15,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,unknown,N
+Other,F,34,Provoked,Other,N
+Surfing,M,19,Unprovoked,unknown,N
+Snorkeling,M,26,Unprovoked,tiger shark,N
+Fishing,M,24,Provoked,Other,N
+Surfing,M,44,Unprovoked,white shark,N
+Swimming,M,25,Unprovoked,unknown,Y
+Surfing,M,53,Unprovoked,white shark,N
+Surfing,M,28,Unprovoked,unknown,N
+Spearfishing,M,34,Unprovoked,Other,N
+Surfing,M,51,Unprovoked,white shark,N
+Surfing,M,14,Unprovoked,wobbegong shark,N
+Swimming,M,10,Unprovoked,wobbegong shark,N
+Surfing,M,27,Unprovoked,white shark,N
+Surfing,M,26,Unprovoked,unknown,N
+Other,M,32,Unprovoked,white shark,Y
+Surfing,M,41,Unprovoked,white shark,N
+Other,M,50,Unprovoked,unknown,N
+Other,M,51,Boating,unknown,N
+Swimming,M,43,Unprovoked,white shark,N
+Spearfishing,M,21,Unprovoked,bull shark,N
+Surfing,M,25,Unprovoked,unknown,N
+Surfing,M,30,Unprovoked,tiger shark,N
+boarding,M,21,Unprovoked,white shark,Y
+Surfing,M,19,Unprovoked,blacktip shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Surfing,M,49,Unprovoked,white shark,Y
+Swimming,M,25,Unprovoked,unknown,N
+Surfing,M,32,Unprovoked,Other,N
+Swimming,M,30,Unprovoked,bull shark,Y
+Other,M,7,Invalid,unknown,N
+Surfing,M,29,Unprovoked,white shark,N
+Scuba diving,M,22,Unprovoked,bull shark,N
+Other,F,10,Unprovoked,bull shark,N
+Spearfishing,M,35,Unprovoked,unknown,N
+Scuba diving,M,28,Unprovoked,blacktip shark,N
+Spearfishing,M,28,Unprovoked,Other,N
+Wading,M,19,Unprovoked,unknown,N
+Surfing,M,33,Unprovoked,white shark,N
+Spearfishing,M,28,Unprovoked,Other,Y
+boarding,M,15,Unprovoked,tiger shark,Y
+Spearfishing,M,32,Unprovoked,bull shark,N
+Other,M,17,Unprovoked,Other,N
+Surfing,M,49,Unprovoked,unknown,N
+Surfing,M,41,Unprovoked,bronze whaler,N
+Surfing,M,48,Unprovoked,bull shark,N
+boarding,F,24,Unprovoked,unknown,N
+Fishing,M,36,Provoked,bull shark,N
+Spearfishing,M,21,Unprovoked,unknown,N
+Other,M,49,Unprovoked,white shark,Y
+Swimming,F,38,Unprovoked,unknown,N
+Scuba diving,M,55,Unprovoked,Other,N
+boarding,M,16,Unprovoked,unknown,N
+Snorkeling,F,70,Unprovoked,Other,Y
+Snorkeling,M,54,Unprovoked,Other,N
+Snorkeling,M,46,Unprovoked,Other,N
+Snorkeling,F,70,Unprovoked,Other,N
+Snorkeling,F,48,Unprovoked,Other,N
+Snorkeling,F,20,Unprovoked,white shark,N
+Scuba diving,M,30,Unprovoked,unknown,N
+boarding,M,19,Unprovoked,white shark,Y
+Surfing,M,22,Unprovoked,bull shark,N
+Surfing,M,29,Unprovoked,white shark,N
+Swimming,M,29,Unprovoked,white shark,Y
+Surfing,M,15,Unprovoked,unknown,N
+Swimming,M,27,Unprovoked,unknown,N
+Surfing,M,31,Unprovoked,white shark,Y
+Fishing,M,45,Boating,white shark,N
+Surfing,M,35,Unprovoked,unknown,N
+Standing,F,37,Unprovoked,unknown,N
+Standing,M,16,Unprovoked,unknown,N
+Swimming,M,10,Unprovoked,blacktip shark,N
+Swimming,F,13,Unprovoked,tiger shark,N
+Surfing,M,55,Unprovoked,Other,N
+Swimming,M,9,Provoked,Other,N
+Fishing,M,20,Provoked,Other,N
+Surfing,M,19,Unprovoked,unknown,N
+boarding,M,48,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,bull shark,N
+Swimming,M,17,Unprovoked,unknown,N
+boarding,F,18,Unprovoked,unknown,N
+Fishing,M,49,Provoked,Other,N
+Other,F,58,Unprovoked,Other,N
+Swimming,F,60,Unprovoked,Other,N
+Wading,F,10,Unprovoked,unknown,N
+Other,M,29,Provoked,Other,N
+Surfing,M,68,Unprovoked,unknown,N
+Surfing,M,35,Unprovoked,unknown,N
+Swimming,M,24,Unprovoked,Other,N
+Surfing,M,34,Unprovoked,unknown,N
+Snorkeling,F,60,Unprovoked,unknown,N
+Surfing,M,46,Unprovoked,wobbegong shark,N
+boarding,M,18,Unprovoked,white shark,N
+boarding,F,14,Provoked,unknown,N
+Surfing,M,29,Unprovoked,unknown,N
+Standing,M,37,Unprovoked,white shark,Y
+Snorkeling,F,9,Unprovoked,Other,N
+Swimming,M,27,Unprovoked,Other,N
+Spearfishing,M,18,Unprovoked,bull shark,N
+Swimming,M,24,Unprovoked,white shark,Y
+Other,M,58,Provoked,tiger shark,N
+Wading,M,10,Unprovoked,unknown,N
+Fishing,M,31,Unprovoked,Other,N
+Surfing,M,18,Unprovoked,unknown,N
+Other,M,25,Unprovoked,unknown,N
+Other,M,27,Boating,white shark,N
+Surfing,M,54,Unprovoked,unknown,N
+Other,M,23,Provoked,Other,N
+Other,M,23,Unprovoked,bull shark,N
+Fishing,M,39,Provoked,Other,N
+Swimming,M,60,Invalid,unknown,Y
+Surfing,M,25,Unprovoked,white shark,Y
+Swimming,F,22,Unprovoked,white shark,N
+Fishing,M,56,Unprovoked,bull shark,N
+Spearfishing,M,14,Unprovoked,bull shark,N
+Swimming,F,43,Provoked,nurse shark,N
+Surfing,M,52,Unprovoked,unknown,N
+Snorkeling,F,50,Unprovoked,Other,Y
+Fishing,M,46,Provoked,Other,N
+Surfing,M,31,Unprovoked,blacktip shark,N
+Surfing,M,49,Unprovoked,blacktip shark,N
+Surfing,M,55,Unprovoked,blacktip shark,N
+Spearfishing,M,27,Provoked,blacktip shark,N
+Spearfishing,M,48,Provoked,unknown,N
+Surfing,M,31,Unprovoked,unknown,N
+Other,M,40,Unprovoked,unknown,N
+Fishing,M,59,Provoked,raggedoth shark,N
+Surfing,M,17,Unprovoked,bronze whaler,N
+Surfing,F,17,Unprovoked,unknown,N
+Swimming,M,61,Unprovoked,unknown,N
+Wading,M,21,Provoked,wobbegong shark,N
+Fishing,M,40,Provoked,Other,N
+Surfing,M,15,Unprovoked,unknown,N
+Surfing,M,33,Unprovoked,white shark,N
+Other,M,31,Unprovoked,bull shark,N
+Surfing,M,41,Unprovoked,white shark,N
+Spearfishing,M,15,Unprovoked,bull shark,N
+Swimming,M,25,Unprovoked,tiger shark,Y
+Snorkeling,M,24,Unprovoked,Other,N
+Surfing,F,13,Unprovoked,white shark,N
+Surfing,M,31,Unprovoked,white shark,N
+Swimming,M,49,Unprovoked,Other,N
+Other,M,29,Boating,white shark,N
+Snorkeling,M,51,Unprovoked,white shark,Y
+Fishing,M,15,Provoked,raggedoth shark,N
+Scuba diving,M,34,Provoked,grey nurse,N
+Spearfishing,M,24,Unprovoked,Other,N
+Fishing,M,50,Provoked,Other,N
+Spearfishing,M,43,Unprovoked,white shark,N
+Surfing,M,40,Unprovoked,unknown,N
+Swimming,M,43,Provoked,bronze whaler,N
+Swimming,M,32,Unprovoked,Other,N
+Surfing,M,40,Unprovoked,tiger shark,N
+Surfing,M,51,Unprovoked,unknown,N
+Surfing,M,52,Unprovoked,unknown,N
+Fishing,M,52,Provoked,Other,N
+Surfing,M,26,Unprovoked,unknown,N
+Other,F,38,Unprovoked,bull shark,N
+Surfing,M,31,Unprovoked,white shark,N
+Swimming,M,33,Unprovoked,unknown,N
+Wading,M,9,Unprovoked,unknown,N
+Wading,F,8,Unprovoked,unknown,N
+Wading,M,16,Unprovoked,unknown,N
+Other,M,16,Boating,Other,N
+Spearfishing,M,42,Unprovoked,bull shark,N
+Other,M,46,Unprovoked,white shark,N
+Swimming,M,37,Unprovoked,unknown,N
+Other,F,40,Boating,white shark,N
+Surfing,F,15,Unprovoked,unknown,N
+Swimming,M,14,Unprovoked,bull shark,N
+Surfing,M,49,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,Y
+Swimming,M,37,Unprovoked,white shark,N
+Fishing,M,40,Unprovoked,bull shark,N
+Surfing,M,24,Unprovoked,tiger shark,Y
+Surfing,M,18,Unprovoked,unknown,N
+Swimming,M,32,Unprovoked,bull shark,N
+Swimming,M,66,Unprovoked,white shark,Y
+Surfing,M,30,Unprovoked,unknown,N
+Wading,M,15,Unprovoked,unknown,N
+boarding,M,16,Unprovoked,bull shark,Y
+Surfing,M,52,Unprovoked,unknown,N
+Surfing,M,13,Unprovoked,unknown,N
+Other,M,8,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,white shark,N
+Other,M,49,Unprovoked,bull shark,Y
+Surfing,F,14,Unprovoked,unknown,N
+Other,M,42,Unprovoked,blacktip shark,N
+Other,M,20,Provoked,Other,N
+Surfing,M,20,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,Other,N
+Surfing,M,24,Unprovoked,unknown,N
+Surfing,M,31,Unprovoked,unknown,N
+Surfing,M,52,Unprovoked,tiger shark,N
+Other,M,28,Unprovoked,unknown,N
+Fishing,M,32,Provoked,Other,N
+Surfing,M,14,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Surfing,M,42,Unprovoked,unknown,N
+Surfing,M,37,Unprovoked,white shark,N
+Other,M,32,Unprovoked,tiger shark,N
+Other,F,52,Unprovoked,white shark,N
+Spearfishing,M,31,Unprovoked,bronze whaler,N
+Surfing,M,22,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,blacktip shark,N
+Swimming,F,23,Unprovoked,tiger shark,Y
+Spearfishing,F,48,Unprovoked,Other,N
+Surfing,M,23,Unprovoked,unknown,N
+Snorkeling,M,14,Unprovoked,nurse shark,N
+Other,F,12,Unprovoked,unknown,N
+Swimming,M,58,Unprovoked,Other,N
+boarding,M,15,Unprovoked,tiger shark,N
+Surfing,M,24,Unprovoked,white shark,N
+Surfing,M,54,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,unknown,N
+Other,M,20,Unprovoked,bull shark,N
+Swimming,F,15,Unprovoked,unknown,N
+Other,F,19,Unprovoked,bull shark,N
+Snorkeling,M,36,Unprovoked,unknown,N
+Wading,M,15,Unprovoked,bronze whaler,N
+Swimming,M,14,Unprovoked,unknown,N
+Scuba diving,M,48,Provoked,Other,N
+Wading,F,30,Unprovoked,unknown,N
+Spearfishing,F,48,Unprovoked,bull shark,N
+boarding,M,17,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,unknown,N
+Other,F,40,Provoked,unknown,N
+Fishing,M,38,Provoked,Other,N
+Wading,F,38,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,unknown,N
+Surfing,F,21,Unprovoked,unknown,N
+Snorkeling,F,63,Unprovoked,tiger shark,N
+Swimming,M,68,Unprovoked,unknown,N
+Other,F,20,Provoked,Other,N
+Swimming,F,13,Unprovoked,unknown,N
+boarding,M,12,Unprovoked,blacktip shark,N
+Surfing,M,24,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,tiger shark,N
+Surfing,M,27,Unprovoked,unknown,N
+Surfing,M,11,Unprovoked,unknown,N
+Surfing,F,42,Unprovoked,unknown,N
+Swimming,F,59,Unprovoked,unknown,N
+Spearfishing,M,16,Provoked,tiger shark,N
+Spearfishing,M,30,Unprovoked,tiger shark,N
+Other,M,41,Unprovoked,white shark,N
+Surfing,M,24,Unprovoked,tiger shark,Y
+Surfing,M,24,Unprovoked,tiger shark,N
+Surfing,M,25,Unprovoked,unknown,N
+Surfing,M,10,Unprovoked,unknown,N
+Surfing,M,43,Unprovoked,white shark,N
+Fishing,M,25,Provoked,raggedoth shark,N
+boarding,M,15,Unprovoked,white shark,N
+Swimming,M,29,Unprovoked,unknown,N
+Surfing,M,22,Unprovoked,white shark,N
+Other,M,18,Unprovoked,unknown,N
+Swimming,M,55,Unprovoked,Other,N
+Surfing,M,52,Unprovoked,unknown,N
+Standing,M,33,Unprovoked,unknown,N
+Surfing,M,37,Unprovoked,white shark,N
+Other,M,24,Unprovoked,white shark,N
+Surfing,M,41,Unprovoked,white shark,N
+Other,M,19,Unprovoked,white shark,N
+Surfing,M,14,Unprovoked,unknown,N
+Standing,M,49,Unprovoked,Other,N
+boarding,F,14,Unprovoked,Other,N
+Spearfishing,F,28,Unprovoked,Other,N
+Spearfishing,M,35,Unprovoked,Other,N
+Surfing,F,22,Unprovoked,blacktip shark,N
+Surfing,M,24,Unprovoked,unknown,N
+Other,F,7,Unprovoked,unknown,N
+Surfing,M,40,Unprovoked,white shark,N
+Spearfishing,M,26,Unprovoked,tiger shark,N
+Spearfishing,M,15,Provoked,Other,N
+Snorkeling,M,46,Provoked,wobbegong shark,N
+Fishing,M,35,Provoked,bull shark,N
+Surfing,M,15,Unprovoked,bronze whaler,N
+boarding,M,15,Unprovoked,raggedoth shark,N
+Swimming,M,35,Unprovoked,tiger shark,N
+Surfing,F,28,Unprovoked,tiger shark,N
+Surfing,M,21,Unprovoked,tiger shark,N
+Surfing,M,15,Unprovoked,bronze whaler,N
+Standing,F,15,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,raggedoth shark,N
+Swimming,F,24,Unprovoked,tiger shark,Y
+Other,M,57,Boating,unknown,N
+Scuba diving,M,52,Unprovoked,white shark,N
+Swimming,F,21,Unprovoked,bull shark,Y
+Surfing,M,21,Unprovoked,unknown,N
+Other,M,49,Unprovoked,unknown,N
+Surfing,M,30,Unprovoked,white shark,N
+Swimming,M,29,Unprovoked,tiger shark,N
+Spearfishing,M,44,Unprovoked,Other,N
+Surfing,M,23,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Fishing,M,32,Provoked,raggedoth shark,N
+Surfing,M,18,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,white shark,N
+Wading,M,15,Unprovoked,unknown,N
+Standing,M,55,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,unknown,N
+Surfing,M,36,Unprovoked,white shark,N
+Surfing,F,20,Unprovoked,white shark,N
+Surfing,M,22,Unprovoked,tiger shark,N
+Scuba diving,F,57,Unprovoked,Other,N
+Other,M,52,Unprovoked,white shark,N
+Surfing,M,28,Unprovoked,tiger shark,N
+Surfing,M,26,Unprovoked,white shark,N
+Surfing,M,44,Unprovoked,bronze whaler,N
+Surfing,F,68,Unprovoked,unknown,N
+Wading,F,18,Unprovoked,bull shark,N
+Surfing,M,40,Unprovoked,white shark,N
+Other,M,21,Provoked,Other,Y
+Scuba diving,M,23,Unprovoked,white shark,Y
+Surfing,M,37,Unprovoked,white shark,N
+Swimming,M,8,Unprovoked,Other,N
+Surfing,M,16,Unprovoked,unknown,N
+Scuba diving,M,24,Provoked,unknown,N
+Swimming,M,22,Unprovoked,unknown,N
+Other,F,14,Unprovoked,unknown,N
+Fishing,M,16,Unprovoked,bull shark,N
+Swimming,F,14,Unprovoked,bull shark,Y
+Swimming,F,7,Unprovoked,Other,Y
+Swimming,M,20,Unprovoked,unknown,N
+Other,F,38,Unprovoked,white shark,N
+Spearfishing,M,22,Unprovoked,white shark,Y
+Swimming,M,33,Unprovoked,unknown,N
+Surfing,M,32,Unprovoked,raggedoth shark,N
+Surfing,M,47,Unprovoked,tiger shark,N
+Fishing,M,25,Provoked,Other,N
+Spearfishing,M,20,Unprovoked,Other,N
+Surfing,M,40,Unprovoked,bronze whaler,N
+Wading,F,70,Unprovoked,blacktip shark,N
+Surfing,M,32,Unprovoked,unknown,N
+Snorkeling,M,26,Unprovoked,white shark,Y
+Other,M,45,Provoked,tiger shark,N
+Swimming,M,18,Unprovoked,bull shark,N
+Swimming,M,19,Unprovoked,unknown,N
+Fishing,M,39,Boating,white shark,N
+Other,M,18,Unprovoked,white shark,Y
+Spearfishing,M,38,Unprovoked,bull shark,Y
+Surfing,M,20,Unprovoked,raggedoth shark,N
+Other,M,16,Unprovoked,raggedoth shark,N
+Swimming,F,77,Unprovoked,white shark,Y
+Surfing,F,38,Unprovoked,white shark,N
+Other,M,40,Unprovoked,bull shark,N
+Other,M,52,Unprovoked,white shark,N
+Surfing,M,59,Unprovoked,bronze whaler,N
+Spearfishing,M,34,Unprovoked,tiger shark,N
+Surfing,M,34,Unprovoked,raggedoth shark,N
+boarding,M,15,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,white shark,N
+Other,F,17,Unprovoked,unknown,N
+Other,M,24,Unprovoked,tiger shark,N
+Other,M,50,Unprovoked,white shark,Y
+Swimming,M,47,Unprovoked,unknown,N
+Swimming,F,13,Unprovoked,unknown,N
+Swimming,F,19,Unprovoked,unknown,N
+Wading,M,11,Unprovoked,bull shark,N
+Fishing,M,51,Unprovoked,Other,N
+Surfing,M,30,Unprovoked,Other,Y
+Wading,M,7,Unprovoked,unknown,N
+Surfing,M,45,Unprovoked,white shark,N
+boarding,M,17,Unprovoked,bronze whaler,N
+Swimming,M,8,Unprovoked,unknown,N
+Swimming,M,21,Unprovoked,white shark,Y
+Wading,M,16,Unprovoked,unknown,N
+Swimming,M,17,Unprovoked,bull shark,N
+Surfing,M,44,Unprovoked,unknown,N
+Spearfishing,M,63,Provoked,Other,N
+Surfing,M,28,Unprovoked,Other,N
+Surfing,M,57,Unprovoked,tiger shark,Y
+Surfing,M,16,Unprovoked,white shark,N
+Surfing,M,20,Unprovoked,bull shark,N
+boarding,M,22,Unprovoked,bull shark,N
+Surfing,M,20,Unprovoked,unknown,N
+Surfing,M,51,Unprovoked,tiger shark,N
+Spearfishing,M,47,Unprovoked,bronze whaler,N
+Surfing,M,15,Unprovoked,Other,N
+Snorkeling,M,22,Unprovoked,Other,N
+Scuba diving,M,46,Unprovoked,white shark,N
+Surfing,M,21,Unprovoked,Other,N
+Spearfishing,M,40,Unprovoked,bull shark,N
+Surfing,M,22,Unprovoked,raggedoth shark,N
+Spearfishing,M,21,Unprovoked,tiger shark,Y
+Surfing,F,35,Unprovoked,unknown,N
+Surfing,M,35,Unprovoked,tiger shark,N
+Surfing,M,18,Unprovoked,unknown,N
+Surfing,M,22,Unprovoked,Other,N
+Surfing,F,13,Unprovoked,tiger shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Wading,F,41,Unprovoked,unknown,N
+Surfing,M,30,Unprovoked,unknown,N
+boarding,M,18,Unprovoked,unknown,N
+Standing,M,15,Unprovoked,unknown,N
+boarding,M,19,Unprovoked,white shark,Y
+Swimming,F,50,Unprovoked,white shark,Y
+Other,M,16,Unprovoked,white shark,N
+Spearfishing,M,58,Unprovoked,unknown,N
+Other,M,10,Provoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Spearfishing,M,39,Unprovoked,bull shark,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,unknown,N
+Standing,F,12,Unprovoked,unknown,N
+Swimming,M,60,Unprovoked,unknown,N
+Swimming,M,51,Unprovoked,unknown,N
+Surfing,M,33,Unprovoked,Other,N
+Wading,M,22,Unprovoked,unknown,N
+Swimming,M,20,Unprovoked,Other,N
+Surfing,M,34,Provoked,unknown,N
+Surfing,M,17,Unprovoked,bull shark,N
+Surfing,M,36,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,30,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Other,M,11,Unprovoked,unknown,N
+Surfing,M,12,Unprovoked,unknown,N
+Swimming,M,20,Unprovoked,unknown,N
+Surfing,M,28,Unprovoked,Other,N
+Surfing,M,50,Unprovoked,unknown,N
+Scuba diving,M,44,Unprovoked,white shark,N
+Wading,M,37,Unprovoked,unknown,N
+Swimming,M,54,Unprovoked,unknown,N
+Swimming,M,24,Unprovoked,unknown,N
+Swimming,M,84,Unprovoked,unknown,Y
+Snorkeling,F,18,Unprovoked,unknown,N
+Snorkeling,M,25,Unprovoked,white shark,N
+Scuba diving,M,26,Unprovoked,wobbegong shark,N
+Swimming,M,23,Unprovoked,bull shark,Y
+boarding,M,48,Unprovoked,white shark,N
+Swimming,F,34,Unprovoked,unknown,N
+Snorkeling,F,41,Unprovoked,Other,N
+Surfing,M,21,Unprovoked,unknown,N
+boarding,M,16,Unprovoked,unknown,N
+Swimming,F,60,Unprovoked,unknown,N
+Swimming,M,36,Unprovoked,bull shark,Y
+Surfing,M,14,Unprovoked,blacktip shark,N
+Surfing,M,35,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Surfing,M,47,Unprovoked,unknown,N
+Fishing,M,55,Unprovoked,blacktip shark,N
+Surfing,M,24,Unprovoked,unknown,N
+Surfing,M,35,Unprovoked,unknown,N
+Swimming,M,19,Unprovoked,bull shark,N
+Other,M,47,Unprovoked,white shark,N
+boarding,M,20,Unprovoked,unknown,N
+Wading,M,36,Provoked,Other,N
+Surfing,M,16,Unprovoked,tiger shark,N
+Surfing,M,27,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,nurse shark,N
+Other,M,30,Provoked,tiger shark,N
+Standing,M,14,Unprovoked,unknown,N
+Surfing,M,13,Unprovoked,blacktip shark,N
+Swimming,F,15,Unprovoked,bull shark,N
+Fishing,M,41,Provoked,Other,Y
+Surfing,M,22,Unprovoked,bull shark,N
+Standing,F,9,Unprovoked,bull shark,N
+Surfing,M,28,Unprovoked,unknown,N
+Surfing,M,50,Unprovoked,unknown,N
+Snorkeling,M,50,Unprovoked,Other,N
+Surfing,M,24,Unprovoked,white shark,N
+Other,M,16,Unprovoked,unknown,N
+Fishing,M,55,Provoked,blacktip shark,N
+Fishing,M,31,Unprovoked,unknown,N
+Other,M,23,Unprovoked,white shark,Y
+Surfing,M,34,Unprovoked,unknown,N
+Standing,M,43,Unprovoked,bull shark,N
+Wading,M,41,Unprovoked,unknown,N
+Swimming,M,29,Unprovoked,unknown,N
+boarding,M,17,Unprovoked,tiger shark,N
+Wading,F,11,Unprovoked,unknown,N
+Swimming,M,20,Unprovoked,unknown,N
+Snorkeling,M,39,Unprovoked,nurse shark,N
+Surfing,M,31,Unprovoked,Other,N
+Other,M,35,Boating,Other,N
+Surfing,M,20,Unprovoked,tiger shark,N
+Fishing,M,16,Unprovoked,Other,N
+Other,M,26,Unprovoked,Other,N
+Snorkeling,M,35,Unprovoked,tiger shark,N
+Surfing,M,49,Unprovoked,bronze whaler,N
+Snorkeling,F,20,Unprovoked,bronze whaler,N
+Surfing,M,26,Unprovoked,tiger shark,N
+Surfing,M,21,Provoked,unknown,N
+Other,M,42,Invalid,unknown,Y
+Swimming,M,28,Unprovoked,white shark,Y
+Swimming,F,23,Unprovoked,white shark,N
+Wading,M,20,Unprovoked,unknown,N
+Swimming,M,10,Unprovoked,bull shark,Y
+Spearfishing,M,44,Unprovoked,bull shark,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,blacktip shark,N
+Surfing,M,19,Unprovoked,blacktip shark,N
+Surfing,M,19,Unprovoked,blacktip shark,N
+Spearfishing,M,43,Unprovoked,bull shark,N
+boarding,M,18,Unprovoked,unknown,N
+Swimming,M,8,Unprovoked,bull shark,N
+Swimming,M,14,Unprovoked,unknown,N
+Spearfishing,M,52,Provoked,white shark,N
+Wading,F,29,Unprovoked,unknown,N
+Swimming,M,11,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,white shark,N
+Surfing,M,45,Unprovoked,unknown,N
+Surfing,M,12,Unprovoked,blacktip shark,N
+Surfing,M,21,Unprovoked,blacktip shark,N
+boarding,M,12,Unprovoked,blacktip shark,N
+Surfing,M,22,Unprovoked,blacktip shark,N
+Surfing,M,19,Unprovoked,blacktip shark,N
+Surfing,M,46,Unprovoked,white shark,N
+Standing,M,26,Unprovoked,unknown,N
+Surfing,M,40,Unprovoked,bronze whaler,N
+Surfing,M,40,Unprovoked,bronze whaler,N
+Other,M,35,Boating,unknown,N
+Swimming,F,55,Unprovoked,unknown,N
+Swimming,M,47,Unprovoked,unknown,Y
+Other,M,30,Unprovoked,unknown,N
+Spearfishing,M,38,Unprovoked,bronze whaler,N
+Other,M,28,Unprovoked,tiger shark,N
+Swimming,M,73,Unprovoked,unknown,N
+Swimming,M,52,Unprovoked,white shark,N
+Swimming,M,49,Unprovoked,white shark,Y
+Surfing,M,27,Unprovoked,white shark,N
+Swimming,F,56,Unprovoked,tiger shark,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,blacktip shark,N
+Surfing,M,17,Unprovoked,white shark,Y
+Surfing,M,25,Unprovoked,white shark,Y
+Other,M,12,Provoked,Other,N
+Surfing,M,31,Unprovoked,white shark,Y
+Surfing,M,25,Unprovoked,unknown,N
+Other,M,48,Unprovoked,white shark,N
+Swimming,M,28,Unprovoked,unknown,Y
+Wading,M,40,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,tiger shark,N
+Swimming,M,47,Unprovoked,unknown,N
+Other,M,69,Unprovoked,unknown,Y
+Surfing,M,53,Unprovoked,tiger shark,N
+Surfing,M,27,Unprovoked,Other,N
+Standing,F,44,Unprovoked,blacktip shark,N
+Snorkeling,F,45,Unprovoked,nurse shark,N
+Surfing,M,14,Unprovoked,unknown,N
+Scuba diving,M,69,Unprovoked,Other,N
+Other,M,5,Unprovoked,Other,N
+Other,F,12,Unprovoked,tiger shark,N
+Spearfishing,F,55,Unprovoked,nurse shark,N
+Wading,F,13,Unprovoked,unknown,N
+Standing,F,19,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,blacktip shark,N
+Swimming,M,55,Unprovoked,bull shark,N
+Swimming,M,44,Unprovoked,bull shark,N
+Swimming,M,26,Unprovoked,unknown,N
+boarding,F,14,Unprovoked,unknown,N
+Surfing,M,37,Unprovoked,unknown,N
+Spearfishing,M,35,Unprovoked,tiger shark,Y
+Spearfishing,M,39,Unprovoked,unknown,N
+Surfing,M,26,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,Other,N
+Swimming,F,13,Unprovoked,Other,N
+Other,F,12,Unprovoked,Other,N
+Surfing,M,18,Unprovoked,unknown,N
+Spearfishing,M,39,Invalid,unknown,N
+Swimming,F,51,Unprovoked,tiger shark,N
+Surfing,M,35,Unprovoked,white shark,N
+Swimming,M,39,Unprovoked,unknown,N
+Swimming,M,12,Unprovoked,Other,N
+Swimming,M,12,Unprovoked,Other,N
+Surfing,M,16,Unprovoked,tiger shark,N
+Other,M,37,Unprovoked,white shark,N
+Wading,F,61,Unprovoked,Other,N
+Surfing,M,13,Unprovoked,unknown,N
+Wading,M,7,Provoked,unknown,N
+Surfing,M,28,Unprovoked,unknown,N
+Fishing,M,23,Unprovoked,unknown,N
+Other,M,10,Unprovoked,unknown,N
+Surfing,M,62,Unprovoked,unknown,N
+Spearfishing,M,35,Unprovoked,bull shark,N
+Surfing,M,42,Unprovoked,white shark,N
+Swimming,M,43,Unprovoked,bull shark,N
+Surfing,M,43,Unprovoked,tiger shark,N
+boarding,M,14,Unprovoked,white shark,Y
+Wading,F,30,Unprovoked,blacktip shark,N
+Surfing,M,29,Unprovoked,white shark,N
+Other,M,20,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Wading,M,5,Unprovoked,blacktip shark,N
+Surfing,M,22,Unprovoked,unknown,Y
+Surfing,M,21,Unprovoked,tiger shark,N
+Swimming,F,41,Unprovoked,Other,N
+Swimming,M,52,Unprovoked,bull shark,Y
+Fishing,M,28,Provoked,Other,N
+Swimming,F,29,Unprovoked,unknown,N
+Surfing,M,35,Unprovoked,bronze whaler,N
+Surfing,M,25,Unprovoked,Other,N
+Spearfishing,M,47,Unprovoked,bull shark,N
+Spearfishing,M,30,Unprovoked,white shark,N
+Surfing,M,18,Unprovoked,white shark,N
+Swimming,M,9,Unprovoked,tiger shark,Y
+Surfing,M,14,Unprovoked,unknown,N
+Other,M,13,Unprovoked,unknown,N
+Surfing,M,32,Unprovoked,white shark,N
+Fishing,M,52,Provoked,unknown,N
+Surfing,M,22,Unprovoked,Other,Y
+Surfing,M,28,Unprovoked,unknown,N
+Spearfishing,M,25,Provoked,unknown,N
+Surfing,M,26,Unprovoked,unknown,N
+boarding,M,16,Unprovoked,white shark,N
+Spearfishing,M,28,Unprovoked,Other,N
+boarding,M,11,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,white shark,N
+Spearfishing,M,24,Unprovoked,white shark,N
+Wading,M,47,Unprovoked,raggedoth shark,N
+Surfing,M,16,Unprovoked,unknown,N
+Surfing,M,10,Unprovoked,raggedoth shark,N
+Other,M,26,Unprovoked,unknown,Y
+boarding,M,20,Unprovoked,white shark,Y
+boarding,M,15,Unprovoked,white shark,N
+boarding,M,16,Unprovoked,Other,N
+Surfing,M,40,Unprovoked,Other,N
+Swimming,F,14,Unprovoked,blacktip shark,N
+boarding,M,22,Unprovoked,white shark,N
+Other,F,35,Unprovoked,unknown,Y
+Surfing,M,50,Unprovoked,white shark,N
+Scuba diving,M,16,Provoked,nurse shark,N
+Snorkeling,M,33,Unprovoked,white shark,N
+Swimming,M,32,Unprovoked,Other,N
+Surfing,M,23,Unprovoked,Other,N
+Spearfishing,M,39,Unprovoked,white shark,Y
+Scuba diving,M,42,Unprovoked,white shark,N
+Other,M,51,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,tiger shark,N
+Surfing,M,23,Unprovoked,blacktip shark,N
+Surfing,M,12,Unprovoked,unknown,N
+Surfing,M,29,Unprovoked,white shark,N
+Scuba diving,M,33,Unprovoked,tiger shark,Y
+Fishing,M,16,Unprovoked,unknown,Y
+Wading,F,10,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,Other,N
+Surfing,M,19,Unprovoked,Other,N
+Surfing,M,25,Unprovoked,white shark,Y
+Standing,M,50,Unprovoked,blacktip shark,N
+Fishing,M,55,Unprovoked,white shark,Y
+Snorkeling,F,47,Unprovoked,tiger shark,N
+Surfing,M,18,Unprovoked,Other,N
+Surfing,M,33,Unprovoked,Other,N
+Spearfishing,M,35,Unprovoked,unknown,N
+Surfing,M,34,Unprovoked,Other,N
+Surfing,M,12,Unprovoked,Other,N
+Spearfishing,M,54,Unprovoked,Other,N
+Surfing,M,22,Unprovoked,white shark,N
+Swimming,F,21,Unprovoked,unknown,N
+Scuba diving,M,30,Unprovoked,tiger shark,N
+Snorkeling,M,27,Unprovoked,unknown,N
+Surfing,M,41,Unprovoked,tiger shark,Y
+Surfing,M,45,Unprovoked,white shark,N
+Surfing,M,22,Unprovoked,white shark,N
+Surfing,M,21,Unprovoked,unknown,N
+Surfing,M,31,Unprovoked,white shark,N
+Other,M,23,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Spearfishing,M,29,Provoked,white shark,N
+boarding,M,19,Unprovoked,tiger shark,N
+Other,M,36,Unprovoked,white shark,N
+Fishing,M,21,Unprovoked,Other,N
+Swimming,M,52,Unprovoked,white shark,Y
+Swimming,M,46,Unprovoked,unknown,N
+Standing,F,63,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,white shark,N
+Other,M,45,Invalid,unknown,Y
+Surfing,M,22,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,blacktip shark,N
+Swimming,M,11,Unprovoked,wobbegong shark,N
+Swimming,F,16,Unprovoked,wobbegong shark,N
+Swimming,F,47,Unprovoked,tiger shark,N
+Fishing,M,7,Unprovoked,unknown,N
+Other,M,24,Unprovoked,bronze whaler,N
+Swimming,F,32,Provoked,nurse shark,N
+Swimming,M,7,Unprovoked,Other,N
+Wading,M,33,Provoked,nurse shark,N
+Swimming,F,13,Unprovoked,bronze whaler,N
+Swimming,M,53,Unprovoked,tiger shark,N
+Surfing,M,25,Unprovoked,tiger shark,Y
+Other,M,22,Unprovoked,white shark,N
+Standing,F,15,Unprovoked,unknown,N
+Surfing,M,39,Unprovoked,unknown,N
+Surfing,M,14,Unprovoked,unknown,N
+Surfing,M,25,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Scuba diving,M,25,Unprovoked,bull shark,Y
+Other,M,29,Unprovoked,white shark,Y
+Other,M,32,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Swimming,M,16,Unprovoked,unknown,N
+Swimming,M,23,Unprovoked,Other,N
+Surfing,M,19,Unprovoked,unknown,N
+Fishing,M,18,Unprovoked,unknown,N
+Wading,M,20,Unprovoked,unknown,N
+Other,F,14,Unprovoked,blacktip shark,N
+boarding,M,12,Unprovoked,unknown,N
+Fishing,F,32,Provoked,blacktip shark,N
+Scuba diving,M,31,Unprovoked,white shark,N
+Other,M,13,Unprovoked,Other,N
+Swimming,M,45,Unprovoked,unknown,N
+Swimming,F,10,Unprovoked,unknown,N
+Swimming,M,38,Unprovoked,tiger shark,N
+Swimming,F,45,Unprovoked,Other,Y
+Swimming,M,29,Unprovoked,unknown,Y
+Surfing,M,15,Unprovoked,bull shark,N
+Other,M,69,Unprovoked,unknown,Y
+Other,F,44,Unprovoked,unknown,Y
+Scuba diving,M,47,Unprovoked,white shark,Y
+Surfing,M,35,Unprovoked,bronze whaler,N
+Swimming,M,22,Unprovoked,raggedoth shark,N
+Swimming,M,14,Unprovoked,tiger shark,Y
+Surfing,M,17,Unprovoked,unknown,N
+boarding,M,26,Unprovoked,white shark,N
+Other,M,42,Unprovoked,white shark,Y
+Surfing,F,34,Unprovoked,unknown,N
+Wading,F,9,Provoked,unknown,N
+Surfing,M,43,Unprovoked,white shark,N
+Other,F,12,Unprovoked,unknown,N
+Surfing,M,24,Unprovoked,bull shark,Y
+Surfing,M,22,Unprovoked,white shark,Y
+Surfing,M,31,Unprovoked,white shark,N
+Surfing,M,15,Unprovoked,unknown,N
+Spearfishing,M,30,Unprovoked,unknown,N
+Surfing,M,28,Unprovoked,Other,N
+Spearfishing,M,35,Unprovoked,unknown,N
+Wading,F,36,Unprovoked,unknown,N
+Surfing,M,22,Unprovoked,unknown,N
+Swimming,F,19,Unprovoked,white shark,N
+Other,M,33,Provoked,Other,N
+Surfing,M,25,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,white shark,N
+Swimming,M,23,Unprovoked,unknown,N
+Swimming,M,33,Unprovoked,unknown,N
+Other,M,27,Unprovoked,tiger shark,Y
+Surfing,M,26,Unprovoked,white shark,N
+Swimming,F,26,Unprovoked,bull shark,N
+Other,F,34,Boating,white shark,N
+Spearfishing,M,36,Unprovoked,white shark,N
+Wading,M,19,Unprovoked,unknown,N
+Swimming,M,69,Unprovoked,unknown,N
+Spearfishing,M,51,Unprovoked,blacktip shark,N
+Other,F,19,Unprovoked,bull shark,N
+Other,M,39,Unprovoked,white shark,N
+Surfing,M,28,Unprovoked,white shark,N
+Other,F,12,Unprovoked,unknown,N
+Other,M,22,Unprovoked,unknown,N
+Scuba diving,M,31,Unprovoked,Other,Y
+Scuba diving,F,34,Unprovoked,white shark,Y
+Other,M,35,Unprovoked,tiger shark,N
+Spearfishing,M,55,Unprovoked,white shark,N
+Fishing,M,69,Provoked,bronze whaler,N
+Spearfishing,M,21,Unprovoked,unknown,N
+Surfing,M,29,Unprovoked,white shark,N
+Standing,M,10,Unprovoked,tiger shark,N
+Other,M,30,Unprovoked,tiger shark,N
+Spearfishing,M,31,Unprovoked,Other,N
+Surfing,M,19,Unprovoked,blacktip shark,N
+Surfing,M,24,Unprovoked,unknown,N
+Other,M,46,Boating,white shark,N
+Scuba diving,M,30,Unprovoked,Other,N
+Scuba diving,M,40,Unprovoked,unknown,N
+boarding,M,18,Unprovoked,tiger shark,Y
+Other,M,40,Unprovoked,white shark,N
+Surfing,M,28,Unprovoked,tiger shark,N
+Surfing,M,28,Unprovoked,white shark,Y
+Surfing,M,20,Unprovoked,white shark,N
+Snorkeling,F,34,Unprovoked,blacktip shark,N
+Surfing,M,17,Unprovoked,white shark,N
+Surfing,M,22,Unprovoked,white shark,N
+Snorkeling,M,26,Provoked,nurse shark,N
+Standing,F,42,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,bull shark,Y
+Surfing,M,35,Unprovoked,unknown,N
+Surfing,F,36,Unprovoked,tiger shark,N
+Surfing,M,17,Unprovoked,bronze whaler,N
+Other,M,41,Unprovoked,white shark,Y
+Surfing,M,21,Unprovoked,unknown,N
+boarding,M,19,Unprovoked,bronze whaler,N
+Swimming,M,19,Unprovoked,Other,N
+Spearfishing,M,36,Unprovoked,blacktip shark,N
+Other,M,25,Unprovoked,white shark,N
+Snorkeling,F,41,Unprovoked,tiger shark,Y
+boarding,M,14,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Surfing,M,32,Unprovoked,white shark,N
+Scuba diving,M,19,Unprovoked,white shark,Y
+Other,M,36,Provoked,Other,N
+Swimming,M,23,Unprovoked,Other,N
+Wading,F,10,Unprovoked,unknown,N
+Other,F,40,Boating,white shark,N
+Snorkeling,M,39,Unprovoked,Other,N
+Swimming,M,42,Unprovoked,blacktip shark,N
+Surfing,M,30,Unprovoked,tiger shark,N
+Surfing,M,32,Unprovoked,white shark,N
+boarding,M,13,Unprovoked,unknown,N
+Swimming,M,31,Unprovoked,bull shark,N
+Swimming,F,65,Unprovoked,tiger shark,Y
+Other,M,23,Unprovoked,unknown,N
+Surfing,M,22,Unprovoked,unknown,N
+Scuba diving,M,18,Unprovoked,grey nurse,N
+Surfing,M,38,Unprovoked,white shark,N
+Spearfishing,M,20,Unprovoked,white shark,N
+Surfing,M,22,Unprovoked,unknown,N
+Swimming,M,26,Unprovoked,unknown,N
+Surfing,M,24,Unprovoked,unknown,N
+Surfing,M,50,Unprovoked,unknown,N
+Surfing,M,25,Unprovoked,Other,N
+Surfing,M,43,Unprovoked,tiger shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Spearfishing,M,26,Unprovoked,white shark,N
+Spearfishing,M,49,Unprovoked,white shark,N
+Other,M,44,Boating,white shark,N
+Surfing,M,22,Unprovoked,white shark,N
+Scuba diving,F,21,Unprovoked,white shark,Y
+Spearfishing,M,38,Unprovoked,unknown,N
+Other,M,22,Unprovoked,white shark,N
+Other,M,23,Unprovoked,white shark,N
+Surfing,M,31,Unprovoked,tiger shark,N
+Surfing,M,29,Unprovoked,unknown,N
+Surfing,M,32,Unprovoked,white shark,N
+Spearfishing,M,29,Unprovoked,white shark,Y
+Swimming,M,10,Unprovoked,Other,N
+Surfing,M,17,Unprovoked,white shark,N
+Surfing,M,12,Unprovoked,unknown,N
+Other,M,29,Unprovoked,white shark,N
+Fishing,M,51,Provoked,unknown,N
+Other,M,38,Unprovoked,white shark,N
+Surfing,M,31,Unprovoked,Other,N
+Other,M,46,Provoked,Other,N
+Other,M,30,Provoked,grey nurse,N
+Swimming,M,21,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,white shark,N
+Surfing,M,17,Unprovoked,bronze whaler,N
+Fishing,M,41,Provoked,white shark,N
+Surfing,M,34,Unprovoked,white shark,N
+Other,F,9,Unprovoked,unknown,N
+Spearfishing,M,45,Unprovoked,tiger shark,N
+Surfing,M,16,Unprovoked,white shark,N
+Other,M,28,Unprovoked,white shark,N
+Swimming,M,19,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,white shark,Y
+Swimming,M,47,Unprovoked,white shark,Y
+Other,F,24,Unprovoked,white shark,Y
+boarding,M,10,Unprovoked,Other,N
+Surfing,M,17,Unprovoked,tiger shark,N
+Surfing,M,21,Unprovoked,white shark,N
+Surfing,M,38,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,unknown,N
+Surfing,M,30,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,unknown,N
+Wading,F,23,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,unknown,N
+Snorkeling,M,38,Unprovoked,bull shark,Y
+Surfing,M,27,Unprovoked,white shark,N
+Spearfishing,M,28,Unprovoked,Other,N
+Other,M,35,Unprovoked,Other,N
+Spearfishing,M,36,Unprovoked,white shark,N
+Scuba diving,M,42,Unprovoked,tiger shark,N
+Other,M,37,Unprovoked,Other,N
+Surfing,M,25,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,unknown,N
+Other,F,15,Unprovoked,Other,N
+Other,M,22,Unprovoked,tiger shark,N
+Other,M,33,Provoked,Other,N
+Surfing,M,12,Unprovoked,wobbegong shark,N
+Surfing,M,16,Unprovoked,blacktip shark,N
+Surfing,M,20,Unprovoked,unknown,N
+Spearfishing,M,21,Unprovoked,white shark,N
+Scuba diving,M,47,Unprovoked,white shark,Y
+Surfing,M,24,Unprovoked,white shark,N
+Wading,M,12,Unprovoked,unknown,N
+Surfing,M,40,Unprovoked,white shark,N
+Surfing,M,27,Unprovoked,unknown,N
+Surfing,F,32,Unprovoked,unknown,N
+Wading,F,16,Unprovoked,unknown,N
+Swimming,M,8,Unprovoked,unknown,Y
+Surfing,M,18,Unprovoked,bronze whaler,N
+Spearfishing,M,30,Unprovoked,white shark,N
+boarding,M,21,Unprovoked,white shark,Y
+Surfing,M,40,Unprovoked,Other,N
+Spearfishing,M,27,Unprovoked,white shark,N
+Swimming,F,6,Unprovoked,Other,N
+Other,M,32,Unprovoked,unknown,N
+Surfing,M,28,Unprovoked,bull shark,N
+Spearfishing,M,26,Unprovoked,Other,N
+Other,M,26,Unprovoked,unknown,N
+Surfing,M,23,Unprovoked,unknown,N
+Surfing,M,21,Unprovoked,white shark,N
+Swimming,M,46,Unprovoked,raggedoth shark,N
+Spearfishing,M,29,Unprovoked,raggedoth shark,N
+Surfing,M,29,Unprovoked,bronze whaler,N
+Surfing,M,22,Unprovoked,blacktip shark,N
+Surfing,M,16,Unprovoked,unknown,N
+boarding,M,22,Unprovoked,white shark,N
+Other,M,46,Unprovoked,unknown,N
+boarding,M,33,Unprovoked,unknown,N
+Other,M,24,Unprovoked,unknown,N
+Wading,F,13,Unprovoked,Other,N
+Other,F,10,Unprovoked,tiger shark,N
+Snorkeling,M,13,Unprovoked,white shark,N
+Spearfishing,M,39,Provoked,Other,N
+Other,F,33,Unprovoked,white shark,Y
+Scuba diving,M,29,Unprovoked,white shark,N
+Swimming,M,15,Unprovoked,raggedoth shark,N
+Surfing,M,18,Unprovoked,white shark,N
+Spearfishing,M,34,Unprovoked,white shark,N
+Spearfishing,M,20,Provoked,Other,N
+Other,M,16,Unprovoked,tiger shark,Y
+Surfing,M,13,Unprovoked,unknown,N
+Spearfishing,M,29,Provoked,unknown,N
+Surfing,F,23,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,blacktip shark,N
+Surfing,M,25,Unprovoked,white shark,N
+Surfing,M,16,Unprovoked,Other,N
+Other,M,28,Unprovoked,white shark,Y
+Swimming,F,18,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,white shark,N
+Other,F,13,Unprovoked,Other,N
+Scuba diving,M,33,Provoked,Other,N
+Spearfishing,M,27,Unprovoked,Other,N
+Swimming,M,14,Unprovoked,raggedoth shark,N
+Scuba diving,M,48,Unprovoked,white shark,N
+Swimming,M,47,Unprovoked,raggedoth shark,N
+Surfing,M,15,Unprovoked,tiger shark,N
+Surfing,M,16,Unprovoked,unknown,N
+Wading,M,20,Unprovoked,unknown,N
+Spearfishing,M,29,Unprovoked,white shark,N
+Swimming,F,14,Unprovoked,Other,N
+Other,M,14,Provoked,nurse shark,N
+Other,F,22,Unprovoked,bull shark,N
+Swimming,F,21,Sea Disaster,tiger shark,Y
+Swimming,M,24,Sea Disaster,tiger shark,Y
+Other,M,28,Sea Disaster,tiger shark,N
+Surfing,F,39,Unprovoked,Other,N
+Other,M,21,Unprovoked,unknown,N
+Fishing,M,27,Unprovoked,raggedoth shark,N
+Spearfishing,M,17,Unprovoked,Other,N
+Other,M,16,Unprovoked,unknown,N
+Spearfishing,M,32,Unprovoked,white shark,N
+Surfing,M,26,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,Other,N
+Surfing,M,20,Unprovoked,unknown,N
+Other,M,36,Unprovoked,white shark,N
+Other,M,28,Unprovoked,white shark,N
+Other,M,38,Unprovoked,white shark,N
+boarding,M,26,Unprovoked,white shark,N
+Swimming,M,17,Unprovoked,unknown,N
+Surfing,M,27,Unprovoked,white shark,Y
+Swimming,M,20,Unprovoked,unknown,N
+Spearfishing,M,19,Unprovoked,Other,N
+Spearfishing,M,32,Unprovoked,white shark,Y
+Surfing,M,18,Unprovoked,unknown,N
+Swimming,M,20,Unprovoked,raggedoth shark,N
+Surfing,M,24,Unprovoked,white shark,Y
+Other,M,59,Unprovoked,Other,N
+Swimming,M,19,Unprovoked,unknown,N
+Surfing,M,24,Unprovoked,unknown,N
+Swimming,M,26,Unprovoked,unknown,Y
+Surfing,M,15,Unprovoked,unknown,N
+Spearfishing,M,19,Provoked,Other,N
+Snorkeling,M,53,Unprovoked,Other,N
+Swimming,F,16,Unprovoked,Other,N
+Surfing,M,32,Unprovoked,Other,N
+Other,F,27,Unprovoked,white shark,Y
+Surfing,M,27,Unprovoked,raggedoth shark,N
+Surfing,M,19,Unprovoked,raggedoth shark,N
+Surfing,M,24,Unprovoked,tiger shark,N
+Wading,M,19,Unprovoked,bull shark,N
+Surfing,M,24,Unprovoked,unknown,N
+Swimming,M,30,Unprovoked,Other,N
+Surfing,M,15,Unprovoked,Other,N
+Spearfishing,M,25,Unprovoked,tiger shark,N
+Other,M,27,Unprovoked,tiger shark,N
+Other,M,25,Unprovoked,unknown,N
+Spearfishing,M,22,Unprovoked,white shark,N
+Surfing,M,29,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,white shark,N
+Standing,F,22,Unprovoked,unknown,N
+Scuba diving,F,44,Provoked,Other,N
+Surfing,M,22,Unprovoked,unknown,N
+Surfing,F,13,Unprovoked,tiger shark,N
+Other,M,52,Unprovoked,tiger shark,Y
+Fishing,M,61,Provoked,Other,N
+boarding,M,24,Unprovoked,white shark,N
+Spearfishing,M,29,Unprovoked,unknown,N
+Spearfishing,M,29,Provoked,Other,N
+Swimming,M,25,Unprovoked,raggedoth shark,N
+Other,M,34,Provoked,Other,N
+Spearfishing,M,19,Invalid,white shark,Y
+Other,M,32,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,white shark,N
+Scuba diving,M,18,Unprovoked,unknown,N
+Spearfishing,M,25,Provoked,white shark,N
+Surfing,M,27,Unprovoked,blacktip shark,N
+Surfing,M,19,Unprovoked,unknown,N
+Spearfishing,M,23,Unprovoked,white shark,Y
+Spearfishing,M,27,Unprovoked,white shark,N
+Scuba diving,M,34,Unprovoked,unknown,N
+Surfing,M,17,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,tiger shark,N
+Spearfishing,M,25,Unprovoked,white shark,N
+Surfing,M,17,Unprovoked,white shark,N
+Other,M,20,Unprovoked,white shark,N
+Spearfishing,M,27,Provoked,bull shark,N
+Other,M,25,Unprovoked,bull shark,N
+Other,M,24,Unprovoked,unknown,N
+Other,M,29,Unprovoked,white shark,N
+Other,M,19,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,Other,N
+Surfing,M,25,Unprovoked,white shark,N
+Surfing,M,20,Unprovoked,white shark,N
+Other,M,27,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,tiger shark,N
+Surfing,M,19,Unprovoked,white shark,N
+Spearfishing,M,23,Unprovoked,unknown,N
+Other,M,17,Unprovoked,unknown,N
+Fishing,M,46,Provoked,Other,N
+Spearfishing,M,25,Unprovoked,unknown,N
+Spearfishing,M,27,Unprovoked,white shark,N
+Other,M,35,Provoked,grey nurse,N
+Standing,M,20,Unprovoked,unknown,N
+Standing,M,33,Unprovoked,Other,N
+Surfing,M,18,Unprovoked,unknown,N
+Surfing,M,20,Unprovoked,bronze whaler,N
+Other,M,21,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,white shark,N
+Other,M,20,Unprovoked,unknown,N
+Other,M,44,Unprovoked,white shark,N
+Scuba diving,M,37,Unprovoked,white shark,Y
+Surfing,M,21,Unprovoked,unknown,N
+Scuba diving,M,23,Unprovoked,white shark,N
+Other,M,34,Unprovoked,white shark,N
+Swimming,F,14,Unprovoked,unknown,N
+Spearfishing,M,29,Provoked,Other,N
+Swimming,M,18,Unprovoked,unknown,N
+Other,M,14,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,unknown,N
+Swimming,M,12,Unprovoked,white shark,Y
+Fishing,M,45,Unprovoked,Other,N
+Fishing,M,12,Provoked,Other,N
+Spearfishing,M,25,Unprovoked,Other,N
+Surfing,M,17,Unprovoked,white shark,N
+Other,M,29,Unprovoked,white shark,N
+Swimming,F,20,Unprovoked,unknown,N
+Scuba diving,M,41,Unprovoked,white shark,N
+Scuba diving,M,48,Unprovoked,white shark,N
+Surfing,M,24,Unprovoked,white shark,N
+Other,M,36,Unprovoked,white shark,N
+Swimming,M,17,Unprovoked,Other,Y
+Other,M,10,Sea Disaster,Other,Y
+Other,M,45,Unprovoked,white shark,N
+Spearfishing,M,22,Unprovoked,raggedoth shark,N
+Surfing,M,17,Unprovoked,Other,N
+Surfing,M,21,Unprovoked,unknown,N
+Other,M,42,Unprovoked,raggedoth shark,N
+Other,M,26,Unprovoked,white shark,Y
+Swimming,M,33,Unprovoked,unknown,N
+Spearfishing,M,11,Unprovoked,bull shark,N
+Spearfishing,M,37,Unprovoked,white shark,Y
+Surfing,M,16,Unprovoked,unknown,N
+Other,M,17,Unprovoked,blacktip shark,N
+Spearfishing,M,26,Unprovoked,Other,N
+Swimming,M,25,Unprovoked,unknown,N
+Surfing,M,19,Unprovoked,bronze whaler,N
+Other,M,45,Unprovoked,white shark,N
+Surfing,M,22,Unprovoked,unknown,N
+Other,M,32,Unprovoked,white shark,N
+Spearfishing,M,27,Unprovoked,Other,N
+Swimming,M,25,Unprovoked,unknown,Y
+Surfing,M,18,Unprovoked,unknown,N
+Other,F,30,Unprovoked,Other,N
+Standing,M,24,Unprovoked,white shark,N
+Swimming,F,16,Unprovoked,white shark,N
+Surfing,M,18,Unprovoked,unknown,N
+Swimming,M,25,Unprovoked,unknown,N
+Scuba diving,M,30,Unprovoked,white shark,N
+Swimming,M,34,Unprovoked,white shark,Y
+Scuba diving,M,26,Provoked,grey nurse,N
+Surfing,M,21,Unprovoked,white shark,N
+Scuba diving,M,32,Unprovoked,unknown,N
+Swimming,M,16,Unprovoked,unknown,N
+Surfing,M,16,Unprovoked,white shark,N
+Surfing,M,15,Unprovoked,white shark,N
+Other,M,43,Unprovoked,Other,N
+Spearfishing,M,20,Provoked,unknown,N
+Fishing,M,13,Provoked,unknown,N
+Scuba diving,M,25,Provoked,raggedoth shark,N
+Wading,F,8,Unprovoked,Other,N
+Swimming,M,16,Unprovoked,Other,N
+Swimming,M,12,Unprovoked,Other,N
+Swimming,M,10,Unprovoked,Other,N
+Other,M,53,Unprovoked,white shark,N
+Surfing,M,13,Unprovoked,unknown,N
+Other,M,23,Provoked,nurse shark,N
+Surfing,M,16,Unprovoked,white shark,N
+Fishing,M,49,Provoked,Other,N
+Other,M,27,Provoked,grey nurse,N
+Surfing,M,17,Unprovoked,white shark,N
+Spearfishing,M,28,Unprovoked,Other,N
+Fishing,M,22,Boat,Other,N
+Spearfishing,M,24,Unprovoked,white shark,Y
+Fishing,M,18,Unprovoked,unknown,N
+Other,M,25,Unprovoked,white shark,N
+Spearfishing,M,33,Unprovoked,unknown,N
+Spearfishing,M,17,Unprovoked,Other,N
+Other,M,21,Unprovoked,bronze whaler,N
+Wading,M,35,Unprovoked,unknown,N
+Spearfishing,M,26,Unprovoked,bronze whaler,N
+Surfing,M,22,Unprovoked,unknown,N
+Other,M,15,Provoked,grey nurse,N
+Standing,M,19,Unprovoked,blacktip shark,N
+Spearfishing,M,23,Unprovoked,unknown,Y
+Other,M,24,Provoked,Other,N
+Spearfishing,M,23,Unprovoked,white shark,Y
+Spearfishing,M,15,Unprovoked,nurse shark,N
+Other,M,41,Unprovoked,Other,N
+Spearfishing,M,26,Provoked,nurse shark,N
+Other,M,22,Provoked,grey nurse,N
+Spearfishing,M,32,Unprovoked,white shark,N
+Spearfishing,M,36,Provoked,grey nurse,N
+Other,M,21,Unprovoked,unknown,Y
+Other,M,15,Provoked,Other,N
+Fishing,M,30,Unprovoked,unknown,N
+Spearfishing,M,29,Provoked,grey nurse,N
+Spearfishing,M,19,Unprovoked,grey nurse,N
+Spearfishing,M,29,Unprovoked,unknown,N
+Swimming,F,13,Unprovoked,unknown,Y
+Other,F,8,Unprovoked,unknown,Y
+Other,M,32,Unprovoked,bronze whaler,N
+Spearfishing,M,43,Unprovoked,Other,N
+Other,M,14,Provoked,nurse shark,N
+Swimming,F,13,Unprovoked,Other,Y
+Other,F,9,Unprovoked,Other,Y
+Swimming,M,33,Unprovoked,white shark,Y
+Other,M,21,Unprovoked,unknown,N
+Wading,M,8,Unprovoked,Other,N
+Other,M,16,Unprovoked,Other,N
+Other,M,34,Provoked,unknown,N
+Other,M,15,Provoked,unknown,N
+Fishing,M,18,Provoked,Other,N
+Swimming,M,18,Unprovoked,unknown,N
+Other,M,38,Sea Disaster,Other,Y
+Other,M,13,Unprovoked,white shark,N
+Other,M,33,Provoked,Other,N
+Spearfishing,M,29,Unprovoked,white shark,N
+Spearfishing,M,30,Unprovoked,wobbegong shark,N
+Standing,M,16,Unprovoked,Other,N
+Other,M,43,Unprovoked,Other,N
+Surfing,M,15,Unprovoked,unknown,N
+Swimming,M,35,Unprovoked,Other,N
+Spearfishing,M,40,Unprovoked,Other,N
+Fishing,M,43,Provoked,unknown,Y
+Surfing,M,24,Unprovoked,grey nurse,N
+Other,M,32,Unprovoked,unknown,N
+Spearfishing,M,15,Unprovoked,Other,Y
+Spearfishing,M,28,Unprovoked,white shark,N
+Other,M,8,Unprovoked,tiger shark,N
+Other,M,17,Unprovoked,blacktip shark,N
+Other,M,16,Unprovoked,Other,N
+Other,M,25,Unprovoked,Other,N
+Scuba diving,M,18,Unprovoked,unknown,N
+Other,M,22,Unprovoked,white shark,N
+Other,M,30,Unprovoked,Other,Y
+Swimming,M,19,Unprovoked,raggedoth shark,N
+Swimming,M,28,Unprovoked,unknown,N
+Other,M,25,Unprovoked,white shark,N
+Other,M,25,Provoked,white shark,N
+Surfing,M,19,Unprovoked,grey nurse,N
+Swimming,M,20,Unprovoked,unknown,N
+Other,M,19,Unprovoked,unknown,N
+Spearfishing,M,28,Unprovoked,Other,N
+Spearfishing,M,21,Unprovoked,unknown,N
+Other,M,30,Unprovoked,Other,N
+Standing,M,47,Unprovoked,Other,N
+Spearfishing,M,35,Unprovoked,tiger shark,Y
+Other,M,13,Unprovoked,unknown,Y
+Surfing,M,19,Unprovoked,unknown,N
+Other,M,38,Unprovoked,unknown,N
+Spearfishing,M,26,Unprovoked,white shark,N
+boarding,M,25,Unprovoked,white shark,N
+Swimming,M,19,Unprovoked,white shark,Y
+Other,M,12,Unprovoked,Other,N
+Spearfishing,M,21,Unprovoked,white shark,N
+Standing,F,20,Unprovoked,Other,N
+Swimming,M,24,Unprovoked,unknown,N
+Other,M,13,Provoked,Other,N
+Other,M,15,Unprovoked,Other,Y
+Spearfishing,M,23,Unprovoked,white shark,N
+Spearfishing,M,22,Unprovoked,tiger shark,Y
+Other,M,20,Unprovoked,Other,N
+Standing,F,18,Provoked,tiger shark,N
+Fishing,F,21,Unprovoked,tiger shark,N
+Fishing,M,35,Unprovoked,Other,N
+Wading,M,28,Unprovoked,unknown,N
+Other,M,30,Unprovoked,unknown,Y
+Surfing,M,18,Provoked,unknown,N
+Spearfishing,M,16,Provoked,nurse shark,N
+Spearfishing,M,26,Unprovoked,tiger shark,N
+Fishing,M,24,Provoked,unknown,N
+Swimming,F,42,Unprovoked,white shark,Y
+Fishing,M,30,Provoked,unknown,N
+Swimming,M,25,Unprovoked,unknown,Y
+Surfing,M,25,Unprovoked,unknown,N
+Surfing,M,15,Unprovoked,unknown,N
+Spearfishing,M,18,Unprovoked,bronze whaler,N
+Spearfishing,M,28,Unprovoked,white shark,N
+Wading,F,32,Unprovoked,Other,Y
+Other,M,27,Unprovoked,unknown,N
+Spearfishing,M,24,Unprovoked,Other,N
+Spearfishing,M,16,Unprovoked,white shark,Y
+Spearfishing,M,26,Unprovoked,unknown,N
+Spearfishing,M,24,Unprovoked,white shark,N
+Wading,M,32,Unprovoked,unknown,Y
+Spearfishing,M,24,Unprovoked,blacktip shark,N
+Spearfishing,M,28,Unprovoked,white shark,Y
+Fishing,M,49,Provoked,Other,N
+Other,M,39,Provoked,unknown,N
+Fishing,M,40,Unprovoked,unknown,Y
+Standing,M,24,Unprovoked,unknown,N
+Other,M,23,Unprovoked,unknown,N
+Standing,M,21,Unprovoked,unknown,N
+Other,M,20,Provoked,unknown,N
+Fishing,M,19,Provoked,Other,N
+Other,M,11,Unprovoked,unknown,N
+Scuba diving,M,55,Provoked,Other,N
+Wading,M,13,Unprovoked,Other,N
+Swimming,M,10,Unprovoked,bronze whaler,Y
+Swimming,M,15,Provoked,unknown,N
+Other,M,13,Unprovoked,white shark,Y
+Swimming,M,35,Unprovoked,unknown,N
+Other,M,18,Unprovoked,unknown,N
+Spearfishing,M,19,Provoked,bronze whaler,N
+Spearfishing,M,29,Unprovoked,white shark,N
+Surfing,M,19,Unprovoked,bronze whaler,N
+Spearfishing,M,24,Unprovoked,white shark,N
+Fishing,F,54,Unprovoked,unknown,N
+Fishing,M,57,Unprovoked,unknown,N
+Standing,F,18,Unprovoked,unknown,Y
+Standing,M,24,Unprovoked,unknown,N
+Other,M,18,Unprovoked,Other,N
+Spearfishing,M,23,Provoked,grey nurse,N
+Surfing,M,22,Unprovoked,Other,Y
+Swimming,M,17,Unprovoked,unknown,N
+Swimming,M,19,Unprovoked,white shark,Y
+Other,M,22,Unprovoked,Other,N
+Swimming,M,16,Unprovoked,white shark,N
+Wading,M,19,Unprovoked,white shark,N
+Spearfishing,M,22,Unprovoked,blacktip shark,N
+Fishing,M,38,Unprovoked,unknown,N
+Spearfishing,M,57,Provoked,unknown,N
+Spearfishing,M,21,Unprovoked,white shark,N
+Fishing,M,19,Provoked,unknown,N
+Other,M,20,Unprovoked,white shark,N
+Other,M,52,Unprovoked,Other,N
+Swimming,M,37,Unprovoked,Other,N
+Spearfishing,M,22,Unprovoked,tiger shark,N
+Spearfishing,M,21,Provoked,wobbegong shark,N
+Other,M,40,Unprovoked,Other,N
+Swimming,M,38,Unprovoked,Other,Y
+Spearfishing,M,24,Unprovoked,grey nurse,N
+Spearfishing,M,24,Unprovoked,bronze whaler,N
+Swimming,M,24,Unprovoked,unknown,N
+Spearfishing,M,21,Unprovoked,white shark,N
+Other,M,33,Unprovoked,Other,N
+Fishing,M,44,Provoked,Other,N
+Spearfishing,M,27,Unprovoked,unknown,N
+Swimming,M,14,Unprovoked,Other,Y
+Swimming,M,15,Unprovoked,white shark,N
+Other,M,27,Provoked,wobbegong shark,N
+Standing,M,13,Unprovoked,white shark,N
+Other,M,20,Unprovoked,unknown,Y
+Swimming,M,25,Unprovoked,white shark,Y
+Fishing,M,33,Unprovoked,grey nurse,N
+Swimming,M,41,Unprovoked,unknown,N
+Spearfishing,M,24,Unprovoked,wobbegong shark,N
+Other,M,15,Provoked,Other,N
+Other,M,25,Provoked,Other,N
+Fishing,M,46,Unprovoked,unknown,N
+Fishing,M,41,Provoked,Other,N
+Fishing,M,18,Provoked,unknown,N
+Scuba diving,M,39,Unprovoked,Other,N
+Other,M,25,Unprovoked,Other,N
+Swimming,F,16,Unprovoked,white shark,N
+Other,M,16,Unprovoked,white shark,N
+Other,M,48,Unprovoked,white shark,N
+Surfing,M,17,Unprovoked,white shark,N
+Other,M,42,Unprovoked,unknown,N
+Spearfishing,M,44,Unprovoked,unknown,N
+Spearfishing,M,22,Unprovoked,bronze whaler,N
+Spearfishing,M,26,Unprovoked,tiger shark,Y
+Spearfishing,M,20,Provoked,grey nurse,N
+Other,M,13,Unprovoked,bull shark,Y
+Surfing,M,19,Unprovoked,unknown,N
+Standing,M,17,Unprovoked,unknown,N
+Other,M,19,Unprovoked,unknown,N
+Swimming,M,21,Unprovoked,Other,N
+Other,M,30,Unprovoked,white shark,N
+Spearfishing,M,36,Unprovoked,tiger shark,N
+Other,M,30,Sea Disaster,Other,N
+Spearfishing,M,26,Unprovoked,unknown,Y
+Spearfishing,M,32,Provoked,Other,N
+Spearfishing,M,25,Unprovoked,Other,N
+Other,M,13,Provoked,nurse shark,N
+Other,M,33,Unprovoked,unknown,Y
+Spearfishing,M,23,Provoked,white shark,N
+Other,M,18,Unprovoked,white shark,Y
+Spearfishing,M,19,Unprovoked,tiger shark,N
+Other,M,43,Unprovoked,tiger shark,N
+Other,M,14,Unprovoked,unknown,N
+Other,M,20,Unprovoked,grey nurse,N
+Other,M,57,Unprovoked,Other,N
+Other,M,22,Unprovoked,unknown,Y
+Surfing,M,17,Unprovoked,unknown,N
+Swimming,M,18,Unprovoked,white shark,N
+Surfing,M,15,Unprovoked,tiger shark,Y
+Other,M,22,Unprovoked,tiger shark,Y
+Swimming,M,21,Unprovoked,unknown,Y
+Other,M,32,Unprovoked,Other,Y
+Fishing,M,42,Unprovoked,unknown,N
+Swimming,M,12,Unprovoked,tiger shark,N
+Swimming,M,8,Unprovoked,tiger shark,N
+Other,M,31,Sea Disaster,Other,N
+Other,M,20,Provoked,nurse shark,N
+Spearfishing,M,36,Unprovoked,tiger shark,N
+Wading,M,59,Provoked,nurse shark,N
+Other,M,17,Unprovoked,tiger shark,N
+Other,M,29,Provoked,nurse shark,N
+Other,M,29,Unprovoked,Other,N
+Other,F,28,Unprovoked,unknown,Y
+Swimming,M,29,Unprovoked,unknown,Y
+Spearfishing,M,18,Provoked,nurse shark,N
+Surfing,M,14,Unprovoked,unknown,N
+Standing,F,14,Unprovoked,unknown,N
+Other,M,23,Unprovoked,unknown,Y
+Swimming,M,57,Unprovoked,white shark,Y
+Other,M,36,Unprovoked,unknown,N
+Spearfishing,M,28,Unprovoked,unknown,N
+Swimming,M,25,Unprovoked,white shark,Y
+Surfing,M,15,Unprovoked,wobbegong shark,N
+Standing,M,17,Provoked,unknown,N
+Swimming,M,22,Unprovoked,unknown,N
+Spearfishing,M,19,Unprovoked,tiger shark,Y
+Fishing,M,70,Provoked,Other,N
+Other,M,29,Unprovoked,white shark,N
+Other,M,19,Unprovoked,Other,N
+Fishing,M,27,Unprovoked,Other,N
+Fishing,M,34,Unprovoked,unknown,Y
+Swimming,M,10,Unprovoked,white shark,N
+Fishing,M,38,Provoked,unknown,N
+Swimming,M,40,Unprovoked,white shark,Y
+Swimming,M,26,Unprovoked,Other,Y
+Other,M,15,Unprovoked,unknown,Y
+Other,M,25,Unprovoked,unknown,N
+Swimming,F,15,Unprovoked,white shark,Y
+Swimming,M,8,Unprovoked,wobbegong shark,N
+Spearfishing,M,28,Provoked,unknown,N
+Surfing,M,25,Provoked,Other,N
+Swimming,F,32,Unprovoked,white shark,Y
+Swimming,M,28,Unprovoked,Other,Y
+Wading,M,13,Unprovoked,Other,N
+Spearfishing,M,28,Provoked,unknown,N
+Spearfishing,M,19,Unprovoked,white shark,N
+Swimming,M,25,Unprovoked,white shark,Y
+Other,M,13,Unprovoked,bronze whaler,Y
+Spearfishing,M,12,Unprovoked,unknown,N
+Fishing,M,62,Provoked,unknown,N
+Swimming,M,35,Unprovoked,unknown,N
+Spearfishing,M,35,Unprovoked,unknown,Y
+Swimming,M,22,Unprovoked,Other,N
+Other,M,30,Unprovoked,unknown,N
+Other,M,18,Unprovoked,white shark,N
+Other,M,26,Unprovoked,unknown,N
+Fishing,M,15,Unprovoked,Other,N
+Spearfishing,M,15,Unprovoked,unknown,Y
+Spearfishing,M,25,Unprovoked,wobbegong shark,N
+Fishing,M,25,Unprovoked,unknown,N
+Fishing,M,17,Provoked,unknown,N
+Surfing,M,17,Unprovoked,white shark,Y
+Swimming,M,40,Unprovoked,unknown,Y
+Fishing,M,43,Provoked,unknown,N
+Fishing,M,34,Provoked,unknown,N
+Spearfishing,M,18,Provoked,wobbegong shark,N
+Other,M,21,Unprovoked,unknown,Y
+Swimming,M,23,Unprovoked,white shark,N
+Other,M,24,Unprovoked,white shark,N
+Swimming,M,18,Unprovoked,white shark,N
+Swimming,F,16,Unprovoked,white shark,Y
+Other,M,40,Unprovoked,unknown,N
+Other,M,23,Provoked,wobbegong shark,N
+Surfing,M,31,Unprovoked,Other,N
+Swimming,M,14,Unprovoked,unknown,N
+Other,M,19,Unprovoked,nurse shark,N
+Other,M,17,Provoked,unknown,N
+Surfing,M,21,Unprovoked,white shark,N
+Other,M,18,Boating,unknown,N
+Surfing,M,31,Unprovoked,white shark,N
+Fishing,M,25,Unprovoked,unknown,N
+Fishing,M,27,Provoked,unknown,N
+Swimming,M,11,Unprovoked,Other,N
+Standing,M,21,Unprovoked,unknown,N
+Swimming,M,16,Unprovoked,Other,N
+Surfing,M,14,Unprovoked,white shark,Y
+Other,M,35,Unprovoked,grey nurse,N
+Wading,M,36,Unprovoked,unknown,N
+Fishing,M,16,Provoked,Other,N
+Other,F,22,Unprovoked,Other,N
+Other,M,13,Unprovoked,unknown,Y
+Other,M,20,Unprovoked,white shark,Y
+Swimming,M,17,Unprovoked,Other,Y
+Swimming,M,17,Unprovoked,Other,Y
+Other,M,41,Provoked,Other,N
+Spearfishing,M,30,Provoked,Other,N
+Swimming,M,16,Unprovoked,unknown,Y
+Other,M,48,Provoked,nurse shark,N
+Fishing,M,9,Unprovoked,grey nurse,N
+Swimming,M,20,Unprovoked,unknown,Y
+Fishing,M,46,Provoked,unknown,N
+Other,M,21,Unprovoked,Other,N
+Other,M,22,Unprovoked,blacktip shark,N
+Other,M,18,Unprovoked,unknown,N
+Swimming,M,30,Unprovoked,unknown,Y
+Swimming,M,12,Unprovoked,unknown,N
+Standing,M,18,Unprovoked,white shark,N
+Other,M,18,Unprovoked,unknown,N
+Other,M,37,Unprovoked,unknown,N
+Swimming,M,15,Unprovoked,bull shark,N
+Swimming,M,19,Sea Disaster,unknown,N
+Swimming,M,17,Unprovoked,white shark,Y
+Other,F,15,Unprovoked,blacktip shark,N
+Other,M,20,Unprovoked,white shark,Y
+Fishing,M,18,Boating,white shark,N
+Standing,F,15,Unprovoked,bull shark,Y
+Swimming,M,18,Unprovoked,white shark,Y
+Other,M,24,Unprovoked,tiger shark,N
+Other,M,20,Provoked,unknown,N
+Swimming,F,28,Unprovoked,bull shark,Y
+Swimming,M,48,Unprovoked,unknown,N
+Other,M,23,Sea Disaster,tiger shark,N
+Fishing,M,43,Provoked,unknown,N
+Fishing,M,53,Provoked,Other,N
+Other,M,18,Unprovoked,unknown,Y
+Other,M,25,Unprovoked,white shark,Y
+Swimming,M,17,Unprovoked,white shark,Y
+Other,M,17,Unprovoked,unknown,N
+Swimming,M,13,Unprovoked,unknown,Y
+Swimming,M,18,Unprovoked,unknown,Y
+Swimming,M,20,Unprovoked,Other,Y
+Swimming,M,27,Unprovoked,tiger shark,N
+Other,M,38,Provoked,nurse shark,N
+Fishing,M,18,Provoked,tiger shark,N
+Surfing,M,50,Unprovoked,unknown,N
+Other,M,17,Unprovoked,unknown,Y
+Swimming,M,25,Unprovoked,tiger shark,Y
+Swimming,M,18,Unprovoked,tiger shark,Y
+Swimming,M,16,Unprovoked,unknown,N
+Other,M,38,Unprovoked,tiger shark,N
+Swimming,M,33,Unprovoked,Other,Y
+Swimming,M,32,Unprovoked,white shark,Y
+Fishing,M,20,Provoked,Other,N
+Other,M,18,Provoked,grey nurse,N
+Fishing,M,50,Boating,unknown,Y
+Swimming,M,16,Unprovoked,white shark,Y
+Swimming,M,16,Unprovoked,tiger shark,Y
+Other,M,16,Unprovoked,tiger shark,N
+Swimming,M,14,Unprovoked,white shark,Y
+Swimming,M,13,Unprovoked,white shark,Y
+Other,M,38,Unprovoked,unknown,Y
+Fishing,M,31,Unprovoked,unknown,N
+Other,M,38,Provoked,Other,N
+Swimming,M,27,Unprovoked,white shark,Y
+Standing,M,22,Unprovoked,white shark,Y
+Other,F,13,Unprovoked,tiger shark,N
+Swimming,F,18,Unprovoked,white shark,Y
+Swimming,M,15,Unprovoked,unknown,Y
+Swimming,M,17,Unprovoked,unknown,Y
+Swimming,M,22,Unprovoked,unknown,N
+Other,M,17,Unprovoked,tiger shark,N
+Other,M,15,Unprovoked,unknown,N
+Swimming,M,24,Unprovoked,bull shark,Y
+Swimming,M,24,Unprovoked,unknown,N
+Fishing,M,32,Provoked,Other,N
+Other,M,23,Unprovoked,raggedoth shark,N
+Other,M,45,Unprovoked,unknown,N
+Swimming,F,20,Unprovoked,Other,N
+Swimming,M,18,Unprovoked,unknown,N
+Swimming,M,21,Unprovoked,tiger shark,N
+Other,M,18,Unprovoked,white shark,Y
+Swimming,M,23,Unprovoked,white shark,N
+Other,M,16,Unprovoked,tiger shark,Y
+Surfing,F,17,Unprovoked,unknown,N
+Standing,M,19,Provoked,grey nurse,N
+Other,M,9,Unprovoked,Other,N
+Other,M,12,Unprovoked,Other,N
+Swimming,M,39,Unprovoked,Other,Y
+Surfing,M,14,Unprovoked,unknown,Y
+Swimming,M,17,Unprovoked,Other,Y
+Other,M,15,Unprovoked,unknown,N
+Surfing,M,18,Unprovoked,unknown,N
+Swimming,M,17,Unprovoked,white shark,Y
+Surfing,M,17,Unprovoked,grey nurse,N
+Fishing,M,70,Provoked,Other,N
+Swimming,M,15,Unprovoked,unknown,Y
+Other,M,17,Unprovoked,grey nurse,N
+Swimming,M,20,Unprovoked,unknown,Y
+Swimming,M,15,Unprovoked,white shark,N
+Other,M,55,Unprovoked,tiger shark,Y
+Other,M,16,Unprovoked,Other,N
+Swimming,M,16,Unprovoked,unknown,Y
+Other,M,19,Unprovoked,Other,Y
+Other,F,18,Unprovoked,unknown,Y
+Swimming,M,19,Unprovoked,unknown,Y
+Swimming,M,18,Unprovoked,white shark,N
+Standing,F,14,Unprovoked,Other,Y
+Other,M,21,Unprovoked,white shark,Y
+Swimming,M,18,Unprovoked,white shark,Y
+Wading,M,13,Unprovoked,unknown,Y
+Swimming,M,12,Unprovoked,unknown,N
+Swimming,M,24,Unprovoked,unknown,Y
+Swimming,M,24,Unprovoked,unknown,Y
+Swimming,M,21,Unprovoked,Other,Y
+Other,M,30,Unprovoked,unknown,Y
+Other,M,40,Unprovoked,unknown,N
+Swimming,M,29,Unprovoked,white shark,Y
+Swimming,M,15,Unprovoked,unknown,Y
+Fishing,M,15,Unprovoked,white shark,N
+Other,M,19,Unprovoked,unknown,N
+Fishing,M,21,Provoked,unknown,N
+Swimming,M,12,Unprovoked,bull shark,Y
+Swimming,M,23,Unprovoked,Other,Y
+Swimming,M,22,Unprovoked,unknown,Y
+Standing,M,35,Unprovoked,Other,Y
+Other,F,21,Unprovoked,blacktip shark,N
+Other,M,19,Provoked,nurse shark,N
+Spearfishing,M,27,Unprovoked,unknown,N
+Other,M,36,Unprovoked,Other,N
+Swimming,M,6,Unprovoked,bull shark,N
+Swimming,M,16,Unprovoked,bull shark,N
+Standing,M,16,Unprovoked,tiger shark,Y
